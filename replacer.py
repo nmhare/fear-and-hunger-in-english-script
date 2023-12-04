@@ -33,7 +33,7 @@ def find_and_replace_text(filepath):
             print(f"Error processing file '{filename}': {str(e)}")
 
 if __name__ == "__main__":
-    print("getting directory")
+    print("You must select the /www/data/ directory of your Fear and Hunger install")
     directory = get_directory_from_user()
     if directory:
         for filename in os.listdir(directory):
