@@ -668,6 +668,10 @@
     "old": "Good bye"
   },
   {
+    "new": "on the table",
+    "old": "one the table"
+  },
+  {
     "new": "texts are but children's stories...",
     "old": "texts are but child's word play..."
   },
@@ -1446,10 +1450,6 @@
   {
     "new": "I'd try to appease it",
     "old": "I'd try to please him"
-  },
-  {
-    "new": "\"parameters\":[171,171",
-    "old": "\"parameters\":[272,272"
   },
   {
     "new": "Does devastating damage",
