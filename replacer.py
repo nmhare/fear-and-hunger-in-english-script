@@ -20,12 +20,10 @@ def find_and_replace_text(filepath):
     with open(filepath, 'rb') as file:
         try:
             # Read the raw bytes from the file
-            print("reading file contents")
+            print(f"reading contents of file {file.name}")
             file_content = file.read()
             for new_value, old_value in open_json():
                 if old_value == "": continue
-                # Perform find-and-replace on the raw bytes
-                print(f"replacing {old_value} with {new_value}")
                 file_content = file_content.replace(old_value.encode(), new_value.encode())
 
             print("writing to file")
