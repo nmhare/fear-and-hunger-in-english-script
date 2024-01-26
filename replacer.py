@@ -1,14 +1,38 @@
+from tkinter import *
+from tkinter import ttk
+from tkinter import filedialog as fd
 import os
 import json
-import tkinter as tk
-from tkinter import filedialog
 
-def get_directory_from_user():
-    root = tk.Tk()
-    root.withdraw()  # Hide the main window
+DEFAULT_INSTALL_DIR = r"C:\Program Files (x86)\Steam\steamapps\common\Fear & Hunger\www\data"
 
-    # Ask the user to select a directory
-    return filedialog.askdirectory(title="Select /www/data folder of Fear and Hunger")
+directory = DEFAULT_INSTALL_DIR
+
+def set_directory():
+    global directory
+    directory = fd.askdirectory(
+        title="Choose your fear and hunger install", 
+        initialdir=directory)
+    directory_label.config(text=directory)
+
+def loop_through_and_replace():
+    for filename in os.listdir(directory):
+        filepath = os.path.join(directory, filename)
+        if os.path.isfile(filepath):
+            find_and_replace_text(filepath)
+
+def find_and_replace_text(filepath):
+    with open(filepath, 'rb') as file:
+        try:
+            file_content = file.read()
+            for new_value, old_value in open_json():
+                if old_value == "": continue
+                file_content = file_content.replace(old_value.encode(), new_value.encode())
+                print(f"replacing '{old_value}' with '{new_value}'")
+            with open(filepath, 'wb') as output_file:
+                output_file.write(file_content)
+        except Exception as e:
+            print(f"Error processing file '{file}': {str(e)}")
 
 def open_json():
     with open("replacements.json", 'r') as json_file:
@@ -16,28 +40,21 @@ def open_json():
     for entry in data:
         yield entry["new"], entry["old"]
 
-def find_and_replace_text(filepath):
-    with open(filepath, 'rb') as file:
-        try:
-            # Read the raw bytes from the file
-            print(f"reading contents of file {file.name}")
-            file_content = file.read()
-            for new_value, old_value in open_json():
-                if old_value == "": continue
-                file_content = file_content.replace(old_value.encode(), new_value.encode())
+root = Tk()
+root.title("Fear and Hunger Text Replacer")
 
-            print("writing to file")
-            with open(filepath, 'wb') as output_file:
-                output_file.write(file_content)
-        except Exception as e:
-            print(f"Error processing file '{filename}': {str(e)}")
+mainframe = ttk.Frame(root)
+mainframe.grid(column=0, row=0, sticky=(N, W, E, S))
+root.columnconfigure(0, weight=1)
+root.rowconfigure(0, weight=1)
 
-if __name__ == "__main__":
-    print("You must select the /www/data/ directory of your Fear and Hunger install")
-    directory = get_directory_from_user()
-    if directory:
-        for filename in os.listdir(directory):
-            filepath = os.path.join(directory, filename)
-            if os.path.isfile(filepath):
-                print(f"find and replacing {filepath}")
-                find_and_replace_text(filepath)
+directory_label = ttk.Label(mainframe, text=directory)
+set_directory_button = ttk.Button(mainframe, text="Set Directory", 
+                           command=set_directory)
+execute_button = ttk.Button(mainframe, text="Replace Text", 
+                       command=loop_through_and_replace)
+
+for child in mainframe.winfo_children():
+    child.grid_configure(padx=5, pady=5)
+
+root.mainloop()
