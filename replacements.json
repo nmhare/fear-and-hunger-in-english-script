@@ -240,7 +240,7 @@
     "old": "It's eyes seem"
   },
   {
-    "new": "suspicous of you",
+    "new": "suspicious of you",
     "old": "suspiciously next you"
   },
   {
@@ -1906,5 +1906,629 @@
   {
     "new": "your affinity with Gro-goroth is growing",
     "old": "your affinity with the Gro-goroth is growing"
+  },
+  {
+    "new": "environment",
+    "old": "enviroment"
+  },
+  {
+    "new": "You also get a",
+    "old": "You get also get a"
+  },
+  {
+    "new": "You set your mind: you will have your revenge,",
+    "old": "You set your mind - You will kill everything that carries"
+  },
+  {
+    "new": "you will kill every accursed soul in that place,",
+    "old": "a dark soul in the dungeons, you will have your revenge "
+  },
+  {
+    "new": "and the artefact will once more be in your hands.",
+    "old": "and the dark artefact will be yours again."
+  },
+  {
+    "new": "specter",
+    "old": "spectre"
+  },
+  {
+    "new": "SPECTER",
+    "old": "SPECTRE"
+  },
+  {
+    "new": "Unfortunately, you were born with a fragile body",
+    "old": "Unfortunate for you, you were born with a fragile body"
+  },
+  {
+    "new": "and your sister easily overpowered you, pinning you",
+    "old": "and your sister easily overpowered you and had her dagger"
+  },
+  {
+    "new": "to the ground and putting her dagger to your throat.",
+    "old": "on your neck waiting for the final blow."
+  },
+  {
+    "new": "Le'garde saw potential in you, and with warm words, ",
+    "old": "Le'garde saw potential in you and with warm words, he "
+  },
+  {
+    "new": "he seduced you into joining his band of mercenaries.",
+    "old": "almost seduced you to join his band of mercenaries. Thanks"
+  },
+  {
+    "new": "Thanks to your rigorous discipline, you rose higher in",
+    "old": "to your rigorous discipline, you took a high position in"
+  },
+  {
+    "new": "You were born with the soul of the enlightened. Restless,",
+    "old": "You were born with the soul of the enlightened. You are"
+  },
+  {
+    "new": "you are driven to learn everything, especially secrets ",
+    "old": "always seeking restlessly for new knowledge and secrets "
+  },
+  {
+    "new": "hidden from common folk.",
+    "old": "hidden from the common folk."
+  },
+  {
+    "new": "The dark priests had no place for the weak, so you were",
+    "old": "The dark priests got no place for the weak, so you were"
+  },
+  {
+    "new": "thrown down a well and left to rot. But you were stronger",
+    "old": "thrown down to an underground well. There you were meant"
+  },
+  {
+    "new": "than they knew. You survived, feeding on insects and other",
+    "old": "to quietly wither away. Instead you fed on insects and other"
+  },
+  {
+    "new": "fire, jammed the exit door so no one could escape, and...",
+    "old": "fire, fammed the exit door so no one could escape and then"
+  },
+  {
+    "new": "This much bloodshed would enable powerful blood rituals.",
+    "old": "This much bloodbath would enable great blood rituals."
+  },
+  {
+    "new": "I truly envy the wizards who resided here.\\\"",
+    "old": "I truly envy the wizards who predated here.\\\""
+  },
+  {
+    "new": "",
+    "old": ""
+  },
+  {
+    "new": "in a downward spiral. All the wisdom of the ages ",
+    "old": "in a downward spiral. All the knowledge of the known "
+  },
+  {
+    "new": "can be found here, buried somewhere in the pile.\\\"",
+    "old": "civilizations is stored here.\\\""
+  },
+  {
+    "new": "\\\"Are these the entrails of a god?\\\"",
+    "old": "\\\"This is the insides of a god?\\\""
+  },
+  {
+    "new": "\\\"These are the tombs of the gods... Truly fascinating...\\\"",
+    "old": "\\\"These are the tombs of the gods... It's truly interesting.\\\""
+  },
+  {
+    "new": "\\\"I'm sorry... I'm not in the mood for chatting...\\\"",
+    "old": "\\\"...I'm sorry... I'm not in a mood of chatter...\\\""
+  },
+  {
+    "new": "\\\"If only I hadn't wasted so much time coming here...\\\"",
+    "old": "\\\"If only I didn't waste such time coming down here...\\\""
+  },
+  {
+    "new": "D'arce turns away, but you can see the tears on her cheeks.",
+    "old": "D'arce sheds tears while turning her away from you."
+  },
+  {
+    "new": "\\\"For God's sake, he was written into the prophecies!\\\"",
+    "old": "\\\"I mean he was clearly written in to the prophecies!\\\""
+  },
+  {
+    "new": "\\\"These dungeons are just relentless. Death follows",
+    "old": "\\\"These dungeons are just relentless! Death follows where"
+  },
+  {
+    "new": "wherever you go!\\\"",
+    "old": "ever you go!\\\""
+  },
+  {
+    "new": "\\\"Did you hear that noise?!\\\"",
+    "old": "\\\"Did you hear that noice?!\\\""
+  },
+  {
+    "new": "I can barely breathe here!",
+    "old": "I can barely breath here!"
+  },
+  {
+    "new": "and and elder god.\\\"",
+    "old": "being and an older god.\\\""
+  },
+  {
+    "new": "to the world of the gods to this day.\\\"",
+    "old": "with the world of the gods to this day.\\\""
+  },
+  {
+    "new": "Nilvan seems to be deep in thought...\\\"",
+    "old": "Nilvan seems to be thinking something hard...\\\""
+  },
+  {
+    "new": "two weeks. How the hunger would drive even the most",
+    "old": "two weeks. How the hunger would drive even the most good-"
+  },
+  {
+    "new": "good-hearted man insane.",
+    "old": "hearted man insane."
+  },
+  {
+    "new": "You remember...the feast you had the following day...",
+    "old": "You remember...the feast you would have the next day..."
+  },
+  {
+    "new": "the animals taught you their techniques",
+    "old": "the animals would teach you their tricks"
+  },
+  {
+    "new": "If you go forward with your wicked plans, please make ",
+    "old": "If you do go with your wicked plans, please make "
+  },
+  {
+    "new": "sure you leave no one who can tell tales about",
+    "old": "sure you leave no one talking about "
+  },
+  {
+    "new": "the studies performed. No witnesses, so to speak.\\\"",
+    "old": "the studies performed. No witnesses so to speak.\\\""
+  },
+  {
+    "new": "alchemical",
+    "old": "alchemic"
+  },
+  {
+    "new": "He can't take many more",
+    "old": "He can't take manymore"
+  },
+  {
+    "new": "I guess this is what I get for blindly following someone",
+    "old": "I guess this is what you get for blindly following someone"
+  },
+  {
+    "new": "A delicate sword from far-East.\\nFragile, but its sharp edge inflicts critical damage.",
+    "old": "A delicate sword from far-East. It is very sharp, but \\nfragile. Its edge is prone to critical attacks."
+  },
+  {
+    "new": "Wasted tears weigh heavy on me, from our love",
+    "old": "Wasted tears weigh'in my back, from our love"
+  },
+  {
+    "new": "Silent grace in life, hid within your eyes, in eyes",
+    "old": "Silent grace in life, hid in your eye, in eyes"
+  },
+  {
+    "new": "Eyes I used to dream of all night,\\\"",
+    "old": "I used to dream all night,\\\""
+  },
+  {
+    "new": "Chains in my heart, gaining weight before your eyes.",
+    "old": "Chains in my heart, gaining weight before your"
+  },
+  {
+    "new": "Too heavy for me to bear, can't you see me",
+    "old": "eyes. Too heavy for me to bear, can't you see me"
+  },
+  {
+    "new": "So hard to withstand, even the sight of you.",
+    "old": "So hard to withstand, even the sight of your eyes,"
+  },
+  {
+    "new": "The chains in my heart - so heavy - I can't defy...",
+    "old": "chains in my heart - so heavy - I can't defy..."
+  },
+  {
+    "new": "The embryos are his profane children.",
+    "old": "Embryos are the bastardization that came from that act."
+  },
+  {
+    "new": "Thank you for beating some sene into me.",
+    "old": "Thank you for beating some sense to me."
+  },
+  {
+    "new": "The time is now. the time the prophecies have foretold!",
+    "old": "The time is now. The times the prophecies have foretold!"
+  },
+  {
+    "new": "That is when lust, sex, and addiction fester",
+    "old": "That is when lust, sex and addiction take a form of"
+  },
+  {
+    "new": "and become monstrous.\\\"",
+    "old": "defiguration.\\\""
+  },
+  {
+    "new": "The God of the Depths has an especially strong influence in",
+    "old": "God of the Depths has an especially strong influence in"
+  },
+  {
+    "new": "He has existed for aeons as the seed of his father",
+    "old": "He has existed for aeons as a seed of his father"
+  },
+  {
+    "new": "The statue seems to depict ancient kings judging from their ",
+    "old": "The statues seem to depict ancient kings judging from their"
+  },
+  {
+    "new": "Old God",
+    "old": "older god"
+  },
+  {
+    "new": "Old God",
+    "old": "older God"
+  },
+  {
+    "new": "Old God",
+    "old": "Older god"
+  },
+  {
+    "new": "Old God",
+    "old": "Older God"
+  },
+  {
+    "new": "New God",
+    "old": "new god"
+  },
+  {
+    "new": "New God",
+    "old": "New god"
+  },
+  {
+    "new": "New God",
+    "old": "new God"
+  },
+  {
+    "new": "The book radiates\\na certain dignity",
+    "old": "The book radiates\\ncertain dignity"
+  },
+  {
+    "new": "A scrap taken from the diary of the captain",
+    "old": "A brief take from the diary of the captain"
+  },
+  {
+    "new": "A pinecone. Someday it might grow up",
+    "old": "A pinecone. Someday it might grow out"
+  },
+  {
+    "new": "Dried-up bread with a crust of mold.\\nGives momentary relief from hunger.",
+    "old": "A dried up bread with some mold already growing on it.\\nGives momentary ease against hunger."
+  },
+  {
+    "new": "Cabbage with a few rotten leaves.",
+    "old": "A cabbage with few rotten leaves."
+  },
+  {
+    "new": "Fake placeholder book made of wood.",
+    "old": "Empty book with just wooden covers."
+  },
+  {
+    "new": "A living, breathing fetus. Seems to be in pain",
+    "old": "A living and breathing fetus. Seems to be in pain"
+  },
+  {
+    "new": "A great way to start the day - if a little\\nheavy on your stomach.",
+    "old": "A great way to start new day - if not a little bit\\nheavy on your stomach."
+  },
+  {
+    "new": "A great-tasting stew.",
+    "old": "A stew with great taste."
+  },
+  {
+    "new": "Won't spoil for ages.",
+    "old": "Goes without spoiling for a long\\nperiod of time."
+  },
+  {
+    "new": "A mushroom that emanates a pale light.\\nIt smells off.",
+    "old": "Mushroom emanates pale light. Its smell is off."
+  },
+  {
+    "new": "A dry piece of salami. Made from horse meat.",
+    "old": "A Dry piece of salami. Made from horse meat."
+  },
+  {
+    "new": "Old-fashioned",
+    "old": "Old fashioned"
+  },
+  {
+    "new": "blueberries",
+    "old": "blue berries"
+  },
+  {
+    "new": "fear-reducing",
+    "old": "fear reducing"
+  },
+  {
+    "new": "White nitroglycerin powder. With the right ingredients,\\nthis could be very useful...",
+    "old": "White powder of nitroglycerin. Mixed with right\\nelements, you can get something out of this..."
+  },
+  {
+    "new": "A clear diamond that radiates a soft light.",
+    "old": "A clear diamond that radiates slight light."
+  },
+  {
+    "new": "A children's fairy tale",
+    "old": "A childrens fairy tale"
+  },
+  {
+    "new": "the great wizard of\\nthe Eastern Sanctuaries",
+    "old": "the great wizard of\\nEastern sanctuaries"
+  },
+  {
+    "new": "The water looks and smells drinkable.",
+    "old": "The water looks and smells like\\ndrinkable."
+  },
+  {
+    "new": "A page clearly torn from a book.",
+    "old": "A page torn clearly torn from a book."
+  },
+  {
+    "new": "A cavewolf pelt. The hair is coarse,\\nalmost spine-like, and it has a leathery texure.",
+    "old": "A fur of a cavewolf. The hair is harsh, not soft at\\nall and it has a leathery texture."
+  },
+  {
+    "new": "Its\\ncovers look very old.",
+    "old": "It's\\ncovers look very old."
+  },
+  {
+    "new": "Commonly used",
+    "old": "Used commonly"
+  },
+  {
+    "new": "Miraculous potion that purportedly fully heals all\\nstatus ailments.",
+    "old": "Miraculous potion that claims to fully heals all your\\nstatus ailments."
+  },
+  {
+    "new": "Miraculous potion that purportedly fully restores\\n your sanity. It smells awful.",
+    "old": "Miraculous potion that claims to fully recovers your\\nsanity. The liquid smell awful."
+  },
+  {
+    "new": "Miraculous potion that purportedly returns life to where\\nit once lingered.",
+    "old": "Miraculous potion that claims to return lift to where it\\nonce lingered."
+  },
+  {
+    "new": "Learn the secrets of stealing and\\npickpocketing.",
+    "old": "Learn the secrets of the art of stealing and \\npickpocketing."
+  },
+  {
+    "new": "Learn the secrets of dashing and sprinting.",
+    "old": "Learn the secrets of dashing and speedrunning."
+  },
+  {
+    "new": "Learn the secrets of fencing and lighting-fast\\nattacks",
+    "old": "Learn the secrets of the art of fencing and fast\\nattacking"
+  },
+  {
+    "new": "Learn the secrets of tactical combat. A great general knows\\nwhen defensive warfare is needed",
+    "old": "Learn the secrets of the art of war. A great general knows\\nwhen the defensive warfare is needed"
+  },
+  {
+    "new": "Learn the secrets of blood sacrifice. The unholy\\nceremony of self-harm and mutilation",
+    "old": "Learn the secrets of the blood sacrifice. The unholy\\nceremony of self-harm and mutilation"
+  },
+  {
+    "new": "skill passed down by the northern wildmen",
+    "old": "skill passed between the northern wildmen"
+  },
+  {
+    "new": "Learn the secrets of bloodlust.",
+    "old": "Learn the secrets of the bloodlust."
+  },
+  {
+    "new": "gemstone is smooth, yet",
+    "old": "gemstone is smooth yet"
+  },
+  {
+    "new": "It smells dull, but",
+    "old": "It smells dull but"
+  },
+  {
+    "new": "The object is an ancient-looking cube with ornamentation",
+    "old": "The object is an ancient looking cube with ornaments"
+  },
+  {
+    "new": "decorations twisting across its surface",
+    "old": "decorations twisting around"
+  },
+  {
+    "new": "blue light that slowly swirl around",
+    "old": "blue light that slowly swirls around"
+  },
+  {
+    "new": "A paper talisman with the distinctive symbols of the\\nEastern Sanctuaries.",
+    "old": "A paper talisman with markings that originate from\\nEastern Sanctuaries."
+  },
+  {
+    "new": "The Lord of Flies' pelt. The hair is coarse and dirty.\\nIt's moldy and smells repulsive",
+    "old": "A fur of a lord of flies. The hair is harsh and dirty.\\nIt stink repulsive and is moldy"
+  },
+  {
+    "new": "Raw meat. It's a huge chunk, but you doubt it's\\nhealthy to eat it raw...",
+    "old": "A piece of raw meat. It's huge junk, but you don't know\\nif it's healthy to eat it raw..."
+  },
+  {
+    "new": "Grilled meat. Its bulk will surely\\n satisfy your hunger.",
+    "old": "A piece of grilled meat. It's huge junk that will surely\\nsatisfy your hunger."
+  },
+  {
+    "new": "A diary that belonged to an anonymous guard on",
+    "old": "A diary that belonged to an anonymous guard set on"
+  },
+  {
+    "new": "A scroll teaching you the secrets of combustion",
+    "old": "A scroll teaching you the secrets of the combustion"
+  },
+  {
+    "new": "The scroll\\nreveals the secrets of walking on water",
+    "old": "The scroll\\nteaches you the secrets on how to walk on water"
+  },
+  {
+    "new": "An old paper filled with symbols and drawings",
+    "old": "An old paper filled with symbolism and drawings"
+  },
+  {
+    "new": "The scroll\\nreveals the secrets of simple transmutation",
+    "old": "The scroll\\nteaches you the secrets of simple transmutation"
+  },
+  {
+    "new": "Old-fashioned",
+    "old": "Old fashioned"
+  },
+  {
+    "new": "If you had to",
+    "old": "If you'd have to"
+  },
+  {
+    "new": "The skinning knife doesn't cut the lizardman's skin!",
+    "old": "Skinning knife doesn't cut lizardman's skin..."
+  },
+  {
+    "new": "I will trade an item of your choosing for the little",
+    "old": "I will trade the little rascal for an item of your"
+  },
+  {
+    "new": "I will trade an item of your choosing for the little",
+    "old": "I will trade the little girl for an item of your"
+  },
+  {
+    "new": "rascal!\\\"",
+    "old": "choosing!\\\""
+  },
+  {
+    "new": "imbeciles",
+    "old": "imbecils"
+  },
+  {
+    "new": "GODDAMN RIGHT I'VE HAD COURT JESTERS",
+    "old": "GODDAMN SURELY I'VE HAD COURT JESTERS"
+  },
+  {
+    "new": "It's an evil message",
+    "old": "It'a an evil message"
+  },
+  {
+    "new": "finally acknowledges you.",
+    "old": "acknowledges you finally."
+  },
+  {
+    "new": "God of Fear and Hunger",
+    "old": "god of fear and hunger"
+  },
+  {
+    "new": "God of Fear and Hunger",
+    "old": "God of fear and hunger"
+  },
+  {
+    "new": "I AM NOTHING BUT A SHELL... A FRACTION OF THE TRACES",
+    "old": "I AM NOTHING BUT A SHELL.. A FRACTION OF THE TRACES"
+  },
+  {
+    "new": "THAT ARE LEFT OF GRO-GOROTH",
+    "old": "THAT IS LEFT OF GRO-GOROTH"
+  },
+  {
+    "new": "YET EVEN I... COULD CRUSH YOU THIS VERY MOMENT",
+    "old": "YET EVEN I.. COULD CRUSH YOU IN THIS VERY MOMENT"
+  },
+  {
+    "new": "WE HAVE GIVEN YOU THE OPTION... WE HAVE GIVEN",
+    "old": "WE HAVE GIVEN YOU THE OPTION.. WE HAVE GIVEN"
+  },
+  {
+    "new": "BUT IT WAS NOT ENOUGH FOR YOU... YOU WANTED",
+    "old": "BUT IT WAS NOT ENOUGH FOR YOU.. YOU WANTED"
+  },
+  {
+    "new": "VERY WELL... HOWEVER... WITH KNOWLEDGE COMES",
+    "old": "VERY WELL.. HOWEVER.. WITH KNOWLEDGE COMES"
+  },
+  {
+    "new": "THE OLDER GODS... THEY DO NOT EVEN EXIST IN THIS",
+    "old": "THE OLDER GODS.. THEY DO NOT EVEN EXIST IN THIS"
+  },
+  {
+    "new": "WORLD... ANY LONGER.",
+    "old": "WORLD.. ANYMORE."
+  },
+  {
+    "new": "THE OLDER GODS ARE... TOO PURE FOR THIS WORLD.",
+    "old": "THE OLDER GODS ARE.. TOO PURE FOR THIS WORLD."
+  },
+  {
+    "new": "THEY ARE... THE TRUE FORMS OF THE FEELINGS AND",
+    "old": "THEY ARE.. THE TRUE FORMS OF THE FEELINGS AND"
+  },
+  {
+    "new": "BUT HUMANS... THEY ARE TOO TAINTED BY THEIR OWN",
+    "old": "BUT HUMANS.. THEY ARE TOO TAINTED BY THEIR OWN"
+  },
+  {
+    "new": "MINDS AND AMBITIONS TO UNDERSTAND PURITY",
+    "old": "MIND AND AMBITION TO UNDERSTAND PURITY"
+  },
+  {
+    "new": "NOW TAKE A LOOK AT THE WORLD THAT BORE YOU...",
+    "old": "NOW TAKE A LOOK AT THE WORLD YOU DELVE.."
+  },
+  {
+    "new": "THAT SHAPE COULD NEVER EXIST AMONG MEN... BECAUSE",
+    "old": "THE SHAPE COULD NEVER EXIST AMONG MEN.. BECAUSE"
+  },
+  {
+    "new": "SHARES... IT WOULD SHATTER YOUR INDIVIDUAL MIND",
+    "old": "SHARES.. IT WOULD SHATTER THE INDIVIDUAL MIND"
+  },
+  {
+    "new": "AND FRAGMENT YOUR EXISTENCE.",
+    "old": "AND EXISTENCE."
+  },
+  {
+    "new": "I CAN... REVEAL THE TRUE FORM... GLIMPSES OF IT...",
+    "old": "I CAN.. REVEAL THE TRUE FORM.. GLIMPSES OF IT..."
+  },
+  {
+    "new": "Your sanity is declining at an alarming rate! You gasp for",
+    "old": "Your sanity declines at an alarming rate! You are gasping for"
+  },
+  {
+    "new": "breath as the shock and horror shuts down your",
+    "old": "breath desperately as the shock and horror shut down your"
+  },
+  {
+    "new": "You see your whole life flash before your eyes. Every regret,",
+    "old": "Your life runs past your eyes in a heartbeat. The biggest"
+  },
+  {
+    "new": "every sorrow. Most of all, though, you regret coming here.",
+    "old": "regret you have was to ever set a foot in these dungeons."
+  },
+  {
+    "new": "You now realize that the whole experiene was predetermined",
+    "old": "You know realize that the whole experience was predetermined"
+  },
+  {
+    "new": "since the very first second you laid eyes on this ancient",
+    "old": "since the very first second you laid your eyes on this ancient"
+  },
+  {
+    "new": "It takes all you have to resist meeting its terrible gaze!",
+    "old": "You manage to stay away from eye contact just barely!"
+  },
+  {
+    "new": "You meet the pitiless gaze of the",
+    "old": "Your eyes meet with the"
   }
-]
+] 
