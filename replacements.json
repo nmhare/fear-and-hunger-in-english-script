@@ -88,8 +88,8 @@
     "old": "A freshly cut"
   },
   {
-    "new": "wretched looking person",
-    "old": "wretched-looking person"
+    "new": "wretched-looking person",
+    "old": "wretched looking person"
   },
   {
     "new": "my work for the Holy See",
@@ -242,6 +242,10 @@
   {
     "new": "suspicious of you",
     "old": "suspiciously next you"
+  },
+  {
+    "new": "suspicious of you",
+    "old": "suspiciously next to you"
   },
   {
     "new": "I have no interest in",
@@ -476,8 +480,8 @@
     "old": "the maneba is jelly-like"
   },
   {
-    "new": "The shield is light to use, and offers",
-    "old": "The shield is light to use and offers"
+    "new": "shield is light to use, and offers",
+    "old": "shield is light to use and offers"
   },
   {
     "new": "The emblem of good luck",
@@ -748,10 +752,6 @@
     "old": "course - being the greedy bastard you were."
   },
   {
-    "new": "You remember...the",
-    "old": ""
-  },
-  {
     "new": "your ancestors performed",
     "old": "your ancestors took part"
   },
@@ -762,10 +762,6 @@
   {
     "new": "of the knighthood within you.",
     "old": "of the knighthood."
-  },
-  {
-    "new": "You remember...how the cruelty",
-    "old": ""
   },
   {
     "new": "beasts from exotic locations,",
@@ -792,52 +788,12 @@
     "old": "knowledge of the otherside."
   },
   {
-    "new": "one day exact revenge for the",
-    "old": ""
-  },
-  {
-    "new": "your ancestors performed.",
-    "old": ""
-  },
-  {
-    "new": "You remember...how your ancestors",
-    "old": ""
-  },
-  {
     "new": "knowledge of the other side",
     "old": "knowledge of the other side"
   },
   {
     "new": "You remember...how",
     "old": "You remember... How"
-  },
-  {
-    "new": "from every generation,",
-    "old": ""
-  },
-  {
-    "new": "a sacrifice to the old gods",
-    "old": ""
-  },
-  {
-    "new": "You remember...after",
-    "old": ""
-  },
-  {
-    "new": "neither of you had eaten a thing in over",
-    "old": ""
-  },
-  {
-    "new": "weak from the hunger...",
-    "old": ""
-  },
-  {
-    "new": "in exchange for your father's meat",
-    "old": ""
-  },
-  {
-    "new": "for surviving in the wild",
-    "old": ""
   },
   {
     "new": "This is a book of various recipes",
@@ -850,6 +806,10 @@
   {
     "new": "like a war veteran...almost",
     "old": "almost like a war veteran"
+  },
+  {
+    "new": "like a war veteran... almost",
+    "old": "like a war veteran almost"
   },
   {
     "new": "You step into the darkness",
@@ -1044,24 +1004,12 @@
     "old": "every step you take forward"
   },
   {
-    "new": "the next day...",
-    "old": ""
-  },
-  {
-    "new": "Chef And\u00e9rs",
-    "old": ""
-  },
-  {
     "new": "Even though the book claims to be a cookbook",
     "old": "Even if the book potrays itself as a recipe book"
   },
   {
     "new": "it seems to be more concerned with the notorious",
     "old": "it seems to tell more about the notorious"
-  },
-  {
-    "new": "Chef And\u00e9rs himself",
-    "old": ""
   },
   {
     "new": "biography, and it",
@@ -1072,36 +1020,8 @@
     "old": "overexaggerating his life triumphs"
   },
   {
-    "new": "There's even a nice little love story",
-    "old": ""
-  },
-  {
-    "new": "and with the princess of the court, too!",
-    "old": ""
-  },
-  {
     "new": "recipes for Chef And\u00e9rs'",
     "old": "recipes of Chef And\u00e9rs'"
-  },
-  {
-    "new": "dream of all night",
-    "old": ""
-  },
-  {
-    "new": "stay awake every night",
-    "old": ""
-  },
-  {
-    "new": "even the sight of your eyes",
-    "old": ""
-  },
-  {
-    "new": "the chains in my heart",
-    "old": ""
-  },
-  {
-    "new": "these lines in your mind",
-    "old": ""
   },
   {
     "new": "your mind!",
@@ -1158,22 +1078,6 @@
   {
     "new": "So hard to withstand, even the sight of your eyes,",
     "old": "So hard to withstand, even a sight of your eyes,"
-  },
-  {
-    "new": "No witnesses, so to speak",
-    "old": ""
-  },
-  {
-    "new": "you, out of everyone",
-    "old": ""
-  },
-  {
-    "new": "word getting around",
-    "old": ""
-  },
-  {
-    "new": "for my own sake too,",
-    "old": ""
   },
   {
     "new": "all its crooked towers",
@@ -1318,6 +1222,10 @@
   {
     "new": "radiating a dim blue light",
     "old": "radiating a faint blue light"
+  },
+  {
+    "new": "radiating a dim blue light",
+    "old": "radiating faint blue light"
   },
   {
     "new": "On second thought",
@@ -1628,6 +1536,10 @@
     "old": "immedietly"
   },
   {
+    "new": "immediately",
+    "old": "immediatly"
+  },
+  {
     "new": "behavior",
     "old": "behaviour"
   },
@@ -1936,6 +1848,434 @@
     "old": "SPECTRE"
   },
   {
+    "new": "Le'garde saw potential in you, and with warm words, ",
+    "old": "Le'garde saw potential in you and with warm words, he "
+  },
+  {
+    "new": "he seduced you into joining his band of mercenaries.",
+    "old": "almost seduced you to join his band of mercenaries. Thanks"
+  },
+  {
+    "new": "Thanks to your rigorous discipline, you rose higher in",
+    "old": "to your rigorous discipline, you took a high position in"
+  },
+  {
+    "new": "Your army was quickly growing in both size and influence.",
+    "old": "Your army was growing fast in both size and influence in the"
+  },
+  {
+    "new": "At first, the Kingdom of Rondon hired your",
+    "old": "western regions. The Kingdom of Rondon would first use your"
+  },
+  {
+    "new": "band for their own ends, but before long, they saw you as",
+    "old": "services to their own benefit, but soon saw you more as a "
+  },
+  {
+    "new": "a possible threat to their sovereignty.",
+    "old": "possible threat to their own modern reigns."
+  },
+  {
+    "new": "Something changed in Le'garde as well. He kept more to",
+    "old": "Something changed with Le'garde as well. He kept more to"
+  },
+  {
+    "new": "himself, studying ancient texts and the occult.",
+    "old": "himself and studied ancient texts and occult."
+  },
+  {
+    "new": "obsessed with relics and artefacts that gave you ominous",
+    "old": "obsessed with some relics and artefacts that gave you ominous"
+  },
+  {
+    "new": "Things would only spiral further towards madness when",
+    "old": "Things would only spiral towards madness even more when"
+  },
+  {
+    "new": "Le'garde decided to raid the northern capital, Oldegård.",
+    "old": "Le'garde decided to raid the northern capital Oldegård."
+  },
+  {
+    "new": "Without warning or negotiation, Le'garde ordered the attack.",
+    "old": "Without a warning or negotiations, Le'garde killed everone"
+  },
+  {
+    "new": "All who stood between him and a peculiar, mysterious",
+    "old": "who stood in the way between him and this mysterious"
+  },
+  {
+    "new": "ancient relic were slaughtered.",
+    "old": "ancient relic."
+  },
+  {
+    "new": "It was this final act that was used by",
+    "old": "Twas this small overblow that was enough of an excuse"
+  },
+  {
+    "new": "the Kingdom of Rondon to turn the commoners against",
+    "old": "for the Kingdom of Rondon to run common folk against"
+  },
+  {
+    "new": "As the troops of Rondon marched towards your",
+    "old": "As the troops of the Rondon army marched towards your"
+  },
+  {
+    "new": "clearly outmatched army, you had to choose a position",
+    "old": "clearly smaller army, you had to choose which position"
+  },
+  {
+    "new": "You also get \\\\c[2]Plate mail",
+    "old": "You also get a \\\\c[2]Plate mail"
+  },
+  {
+    "new": "You also get an \\\\c[2]Iron cuirass",
+    "old": "You also get a \\\\c[2]Iron cuirass"
+  },
+  {
+    "new": "The Knights of the Midnight Sun lost the battle.",
+    "old": "The Knights of the Midnight Sun lost the fight."
+  },
+  {
+    "new": "Le'garde was taken captive to be summarily tortured",
+    "old": "Le'garde was taken as a captive and to be used most likely"
+  },
+  {
+    "new": "and executed as propaganda for the state.",
+    "old": "as propaganda."
+  },
+  {
+    "new": "save Le'garde from the prison he was held in.",
+    "old": "save Le'garde from the prisons he was held in."
+  },
+  {
+    "new": "You get \\\\c[2]7 Tinderboxes",
+    "old": "You get a \\\\c[2]7 Tinderboxes"
+  },
+  {
+    "new": "You get three rations of \\\\c[2]Dried meat\\\\c[0], some \\\\c[2]Moldy bread\\\\c[0], and",
+    "old": "You get 3 \\\\c[2]Dried meat\\\\c[0], a \\\\c[2]Moldy bread\\\\c[0] and"
+  },
+  {
+    "new": "\"\\\\c[2]Cheese\\\\c[0].\"",
+    "old": "\"a \\\\c[2]Chese\\\\c[0].\""
+  },
+  {
+    "new": "The dungeons open before you. You won't leave these ruins",
+    "old": "The dungeons open before you... You won't leave the ruins"
+  },
+  {
+    "new": "reunited. Even if it requires you to abandon",
+    "old": "reunited. Even if it requires you to give up on your own"
+  },
+  {
+    "new": "your principles... or your life.",
+    "old": "principles."
+  },
+  {
+    "new": "You were born with the soul of the endless, and you",
+    "old": "You were born with the soul of the endless that makes you"
+  },
+  {
+    "new": "yearn for freedom to push your creativity to",
+    "old": "yearn for freedom and forces you to push your creativity to"
+  },
+  {
+    "new": "Your cunning was put to the test in the harshest possible",
+    "old": "You put your creativity to the test in the most harshest of"
+  },
+  {
+    "new": "environment. You were born and soon abandoned",
+    "old": "environments. You were born and soon abandoned "
+  },
+  {
+    "new": "Lead an honest life",
+    "old": "Lead a honest life"
+  },
+  {
+    "new": "lead an honest",
+    "old": "lead a honest"
+  },
+  {
+    "new": "You learned to live with the constant fear",
+    "old": "You learned to live with constant fear"
+  },
+  {
+    "new": "As you grew older you joined up with various",
+    "old": "As you grew older you took part in various"
+  },
+  {
+    "new": "around you. The crude steets of Jettaiah taught you",
+    "old": "over the years. The crude streets of Jettaiah teached you"
+  },
+  {
+    "new": "Not many survived the ambush, but that just meant a bigger cut",
+    "old": "Not many survived the ambush, but that just meant that the"
+  },
+  {
+    "new": "of the mission rewards.",
+    "old": "mission rewards got less takers."
+  },
+  {
+    "new": "mercenary band who seemed to share the same disdain for",
+    "old": "mercenary army who seemed to share the same ill-will towards"
+  },
+  {
+    "new": "the Kingdom of Rondon that you did.",
+    "old": "the Kingdom of Rondon as you did."
+  },
+  {
+    "new": "The common folk were starting to gather around the",
+    "old": "The common folk was starting to gather around the"
+  },
+  {
+    "new": "leader Le'garde, who shared their humble origin.",
+    "old": "leader Le'garde, who shared humble origins"
+  },
+  {
+    "new": "He was hero to farmers and villagers alike.",
+    "old": "similar to farmers and villagers alike."
+  },
+  {
+    "new": "You are to be paid well in silver if you spring",
+    "old": "You are to be paid well in silver if you get a"
+  },
+  {
+    "new": "a fabled mercenary captain from prison.",
+    "old": "caption of a fabled mercenary army out of the dungeons"
+  },
+  {
+    "new": "But not just any prison...",
+    "old": "of Rondon itself."
+  },
+  {
+    "new": "reason they need an outsider like yourself",
+    "old": "reason they need an outside sword like yourself"
+  },
+  {
+    "new": "have felt nauseous since the moment you agreed to",
+    "old": "have felt nauseua since the moment you agreed on the"
+  },
+  {
+    "new": "take the job. But you are short on silver and",
+    "old": "job. But you are short on silver and the reward is all that"
+  },
+  {
+    "new": "the reward is all that matters in the end",
+    "old": "matters in the end"
+  },
+  {
+    "new": "Rush straight for the mission",
+    "old": "Rush straight for your mission"
+  },
+  {
+    "new": "This really is your biggest job ever.",
+    "old": "This really is your make-or-break mission."
+  },
+  {
+    "new": "If the mission were to go south",
+    "old": "If the mission was to go south"
+  },
+  {
+    "new": "rumor",
+    "old": "rumour"
+  },
+  {
+    "new": "your iron will until it rivals that of the gods",
+    "old": "your iron will that rivals the will of the gods"
+  },
+  {
+    "new": "You had a normal childhood in the city",
+    "old": "You had a balanced childhood in the city"
+  },
+  {
+    "new": "Winters grew colder and summers shorter, causing",
+    "old": "Winters grew colder and summers shorter, which resulted"
+  },
+  {
+    "new": "embraced the cold, dark sea",
+    "old": "some embraced the cold dark sea"
+  },
+  {
+    "new": "mark on you that could never",
+    "old": "mark in you that could never"
+  },
+  {
+    "new": "find food and riches to feed their people",
+    "old": "find food and riches to feed the people"
+  },
+  {
+    "new": "ever imagined. One the very edge of the world",
+    "old": "ever imagined. From the far reaches of the world"
+  },
+  {
+    "new": "A continent untouched by civilized man",
+    "old": "The continent had never been touched by a civilized man"
+  },
+  {
+    "new": "Unfortunately, the relics",
+    "old": "Unfortunately the relics"
+  },
+  {
+    "new": "you brought from the trip were tainted",
+    "old": "you brought from the trip tainted"
+  },
+  {
+    "new": "and you became fearful of everything around you",
+    "old": "you and you formed a Panophobia, a fear of everything"
+  },
+  {
+    "new": "One artefact taken from the dark continent was different.",
+    "old": "An ancient artefact was brought from the dark continent."
+  },
+  {
+    "new": "You knew it was a mistake to bring it along, but the choice",
+    "old": "You knew it was a mistake, but the choice wasn't in your"
+  },
+  {
+    "new": "wasn't yours to make. You knew something bad would follow",
+    "old": "hands. You knew something bad would follow"
+  },
+  {
+    "new": "The bad omens would reveal themselves, as one week after",
+    "old": "The bad omens would soon reveal themselves as sometime after"
+  },
+  {
+    "new": "you returned home, you came back from a hunting trip",
+    "old": "your return during one of your many hunting trips, you came"
+  },
+  {
+    "new": "only to witness your worst fears come",
+    "old": "back to your village only to witness your worst fears come"
+  },
+  {
+    "new": "You witnessed your home burning, your family slain,",
+    "old": "You witnessed your home village burning, your family slain "
+  },
+  {
+    "new": "He was commander of the fabled mercenary army,",
+    "old": "He was the famous captain from the fabled mercenary army"
+  },
+  {
+    "new": "the Knights of the Midnight Sun. You immediately grabbed",
+    "old": "Knights of the Midnight Sun. You immediately packed and"
+  },
+  {
+    "new": "your weapon and began after him.",
+    "old": "left after him."
+  },
+  {
+    "new": "The man would witness an iron will tempered both in the",
+    "old": "The man would witness the iron will tempered both in the"
+  },
+  {
+    "new": "freezing north and the dark continent of Vinland.",
+    "old": "freezing north and in the dark continent of Vinland."
+  },
+  {
+    "new": "As time went on, you proved to be a gifted fighter and",
+    "old": "As time went on, you proved out to be a gifted fighter and"
+  },
+  {
+    "new": "gods in its many campaigns. But all the rewards",
+    "old": "gods in its pursuits for more power. But all the rewards"
+  },
+  {
+    "new": "seemed to fall into the laps of the elites and the nobles",
+    "old": "seemed to fall into the laps of the elite and noble"
+  },
+  {
+    "new": "sitting comfortably behind their castle walls.",
+    "old": "sitting comformtably behind the castle walls."
+  },
+  {
+    "new": "Ruthlessly, the kingdom expanded its reach,",
+    "old": "Ruthlessly the kingdom would expand its reign."
+  },
+  {
+    "new": "reducing feeble citadels to ashes and blood stains,",
+    "old": "Reducing the feeble citadels to ashes and blood stains."
+  },
+  {
+    "new": "enslaving the women, killing the men,",
+    "old": "Enslaving the poor women folk whilst every man is slain."
+  },
+  {
+    "new": "and only sparing children for sport and infamy.",
+    "old": "Only spare a child or two, that its legend may grow."
+  },
+  {
+    "new": "from the army, but your family insisted - no, demanded",
+    "old": "from the army, but your family insisted - no, they demanded"
+  },
+  {
+    "new": "that you stay a holy knight, lest you bring great",
+    "old": "you to stay as a holy knight or else you'd bring great"
+  },
+  {
+    "new": "shame to your noble house.",
+    "old": "shame to their noble family."
+  },
+  {
+    "new": "Listen to your family and stay a holy knight.",
+    "old": "Listen to your family and stay as a holy knight."
+  },
+  {
+    "new": "You don't need your family or their expectations.",
+    "old": "At this point family ties weighted no more than strangers"
+  },
+  {
+    "new": "You realized they're strangers to you, and cut",
+    "old": "you met at the dirty streets of Rondon. You completely cut"
+  },
+  {
+    "new": "ties without hesitation. At last, you were free.",
+    "old": "ties with your family without hesitation."
+  },
+  {
+    "new": "You swallowed your grief and doubt and decided to stay",
+    "old": "You swallowed your grief and doubt and decided to stay as"
+  },
+  {
+    "new": "a holy knight. You could fix the army's conduct",
+    "old": "a holy knight. In the end you could try to fix things up"
+  },
+  {
+    "new": "from the inside, you naively thought.",
+    "old": "from the inside, you figured."
+  },
+  {
+    "new": "Your family thanked you with a gift of",
+    "old": "Your family gave you a gift of"
+  },
+  {
+    "new": "Just as all seemed lost, you saw a light in the darkness.",
+    "old": "Just as things seemed too dark, you saw light in the"
+  },
+  {
+    "new": "You met a captain of a small mercenary army who",
+    "old": "darkness. You met a captain of a small mercenary army who"
+  },
+  {
+    "new": "You were born one of two twins, and recognizing an omen,",
+    "old": "This trait started to show itself at a very young age as"
+  },
+  {
+    "new": "you were both chosen to become dark priests",
+    "old": "you were chosen to become a dark priest upon the birth of"
+  },
+  {
+    "new": "at a young age.",
+    "old": "you and your twin sister."
+  },
+  {
+    "new": "As part of an occult rite, you were pitted against your",
+    "old": "Typical to such occult rites, you were pitted against your"
+  },
+  {
+    "new": "sister with ritual daggers and ordered to fight each",
+    "old": "sibling with ritual daggers and challenged to fight each"
+  },
+  {
     "new": "Unfortunately, you were born with a fragile body",
     "old": "Unfortunate for you, you were born with a fragile body"
   },
@@ -1948,16 +2288,188 @@
     "old": "on your neck waiting for the final blow."
   },
   {
-    "new": "Le'garde saw potential in you, and with warm words, ",
-    "old": "Le'garde saw potential in you and with warm words, he "
+    "new": "She, however, showed mercy and withdrew her dagger.",
+    "old": "She however showed mercy and withdrew her dagger. She"
   },
   {
-    "new": "he seduced you into joining his band of mercenaries.",
-    "old": "almost seduced you to join his band of mercenaries. Thanks"
+    "new": "She stepped away from you as your high priest masters glared",
+    "old": "stepped away from you as your high priest masters glared"
   },
   {
-    "new": "Thanks to your rigorous discipline, you rose higher in",
-    "old": "to your rigorous discipline, you took a high position in"
+    "new": "at the event unfolding before their eyes.",
+    "old": "gleefully at the event unfolding before their very eyes."
+  },
+  {
+    "new": "Strike your dagger into her spine while she walks away",
+    "old": "Strike your dagger to her spine while she walks away"
+  },
+  {
+    "new": "You struck your dagger into the spine of your sister and she",
+    "old": "You stroke your dagger to the spine of your sister and she"
+  },
+  {
+    "new": "In the ascension ceremony, you were to resurrect your",
+    "old": "In the ascension ceremony you were to resurrect your"
+  },
+  {
+    "new": "You did this, and the cold corpse of your sister",
+    "old": "You did this and the cold corpse of your sister"
+  },
+  {
+    "new": "the temple grounds and learn the occult on your own",
+    "old": "the temple grounds and learn occult on your own in your"
+  },
+  {
+    "new": "in your dark pilgrimage.",
+    "old": "dark pilgrimage."
+  },
+  {
+    "new": "The dark priests had no pity for the weak, so you were",
+    "old": "The dark priests got no place for the weak, so you were"
+  },
+  {
+    "new": "thrown down a well and left to rot. But you were stronger",
+    "old": "thrown down to an underground well. There you were meant"
+  },
+  {
+    "new": "than they knew. You survived, feeding on insects and other",
+    "old": "to quietly wither away. Instead you fed on insects and other"
+  },
+  {
+    "new": "enough to climb out of the well. You crept upstairs to the",
+    "old": "enough to climb up the well. You creeped upstairs to the"
+  },
+  {
+    "new": "temple and found it quiet as the night above.",
+    "old": "temple and noticed it was the night time."
+  },
+  {
+    "new": "Set fire to the temple",
+    "old": "Set the temple on fire and leave"
+  },
+  {
+    "new": "Run away without revenge",
+    "old": "Quietly leave and run away without revenge"
+  },
+  {
+    "new": "Vengefully, you struck back at your caretakers. You set fire",
+    "old": "Vengeful in how you had been treated, you set the temple on"
+  },
+  {
+    "new": "to the temple, barred the door so no one could escape, and",
+    "old": "fire, jammed the exit door so no one could escape and then"
+  },
+  {
+    "new": "vanished into the night. The last you remember of that place",
+    "old": "ran away. Only muffled screams could be heard coming from"
+  },
+  {
+    "new": "are the muffled screams that followed you off into the darkness.",
+    "old": "the temple."
+  },
+  {
+    "new": "You quietly left the temple area. After all, revenge",
+    "old": "You quietly left the temple area thinking that revenge"
+  },
+  {
+    "new": "wouldn't solve anything. But in order to make sure you'd",
+    "old": "wouldn't solve anything. But in order to make sure you"
+  },
+  {
+    "new": "survive on your own, you took a few precious tomes with you.",
+    "old": "survive on your own you took some precious books to secure"
+  },
+  {
+    "new": "Your path forward had been laid.",
+    "old": "your wealth."
+  },
+  {
+    "new": "dark priest on your own merits and prove the elders wrong.",
+    "old": "dark priest on your own merits and prove your fate wrong."
+  },
+  {
+    "new": "Like all priests, you first had to choose",
+    "old": "when beginning your self-studies, you first had to choose"
+  },
+  {
+    "new": "the god you'd dedicate your life to.",
+    "old": "the god you'd dedicate your time to."
+  },
+  {
+    "new": "Pray to ",
+    "old": "Pray for "
+  },
+  {
+    "new": "different gods, demons, blood magic, and all known",
+    "old": "different gods, deities, blood magic and all known"
+  },
+  {
+    "new": "acknowledged by the top scholars in the world.",
+    "old": "acknowledged by the top scholars of the modern times."
+  },
+  {
+    "new": "You were finally granted entrance to the great libraries",
+    "old": "You were finally granted a pass to the great libraries"
+  },
+  {
+    "new": "of the kindom of Rondon. You now had the sum of",
+    "old": "of the kindom of Rondon. You now had the collection of"
+  },
+  {
+    "new": "all human history and science at your grasp.",
+    "old": "all known history and science at your grasp."
+  },
+  {
+    "new": "There, you learned of a prophecy: a man would soon ascend,",
+    "old": "You learned of a certain man who was propheticed to begin"
+  },
+  {
+    "new": "signaling the birth of a new era for mankind. But why?",
+    "old": "a new era for mankind. A man meant for greatness. By why"
+  },
+  {
+    "new": "Why this meaningless mortal? What did the fates intend?",
+    "old": "whould you need to share the spotlight of the gods with any"
+  },
+  {
+    "new": "In the end, it hardly mattered.",
+    "old": "mortal man?"
+  },
+  {
+    "new": "Prophecies are only for those weak enough to bend the knee",
+    "old": "Prophecies are only for those who are weak enough to bend"
+  },
+  {
+    "new": "to the mocking fates. You will find this man and claim",
+    "old": "to their sorry fates. You need to find this man and learn"
+  },
+  {
+    "new": "your destiny. You set off towards your destination:",
+    "old": "more. To your current knowledge, he would be found"
+  },
+  {
+    "new": "the notorious Dungeons of Fear & Hunger.",
+    "old": "imprisoned at the notorious dungeons of Fear & Hunger."
+  },
+  {
+    "new": "Rush to the dungeon",
+    "old": "Rush straight after him"
+  },
+  {
+    "new": "This is it. Your stairway to enlightenment. You will",
+    "old": "This is it. Your stairway to enlightenment. You are set"
+  },
+  {
+    "new": "discover the ancient secrets this stronghold keeps,",
+    "old": "to discover the ancient secrets this stronghold keeps and"
+  },
+  {
+    "new": "attain the ultimate understanding of the cosmos,",
+    "old": "to reach the ultimate understanding of tthe greater scheme"
+  },
+  {
+    "new": "\"and challenge the gods themselves.\"",
+    "old": "\"of things.\""
   },
   {
     "new": "You were born with the soul of the enlightened. Restless,",
@@ -1972,32 +2484,12 @@
     "old": "hidden from the common folk."
   },
   {
-    "new": "The dark priests had no place for the weak, so you were",
-    "old": "The dark priests got no place for the weak, so you were"
-  },
-  {
-    "new": "thrown down a well and left to rot. But you were stronger",
-    "old": "thrown down to an underground well. There you were meant"
-  },
-  {
-    "new": "than they knew. You survived, feeding on insects and other",
-    "old": "to quietly wither away. Instead you fed on insects and other"
-  },
-  {
-    "new": "fire, jammed the exit door so no one could escape, and...",
-    "old": "fire, fammed the exit door so no one could escape and then"
-  },
-  {
     "new": "This much bloodshed would enable powerful blood rituals.",
     "old": "This much bloodbath would enable great blood rituals."
   },
   {
     "new": "I truly envy the wizards who resided here.\\\"",
     "old": "I truly envy the wizards who predated here.\\\""
-  },
-  {
-    "new": "",
-    "old": ""
   },
   {
     "new": "in a downward spiral. All the wisdom of the ages ",
@@ -2140,7 +2632,7 @@
     "old": "Thank you for beating some sense to me."
   },
   {
-    "new": "The time is now. the time the prophecies have foretold!",
+    "new": "The time is now. The time the prophecies have foretold!",
     "old": "The time is now. The times the prophecies have foretold!"
   },
   {
@@ -2220,7 +2712,7 @@
     "old": "A living and breathing fetus. Seems to be in pain"
   },
   {
-    "new": "A great way to start the day - if a little\\nheavy on your stomach.",
+    "new": "A great way to start the day - if a little heavy\\non your stomach.",
     "old": "A great way to start new day - if not a little bit\\nheavy on your stomach."
   },
   {
@@ -2276,7 +2768,7 @@
     "old": "A page torn clearly torn from a book."
   },
   {
-    "new": "A cavewolf pelt. The hair is coarse,\\nalmost spine-like, and it has a leathery texure.",
+    "new": "A cavewolf pelt. The hair is coarse,\\nalmost spine-like, and it has a leathery texture.",
     "old": "A fur of a cavewolf. The hair is harsh, not soft at\\nall and it has a leathery texture."
   },
   {
@@ -2308,7 +2800,15 @@
     "old": "Learn the secrets of dashing and speedrunning."
   },
   {
-    "new": "Learn the secrets of fencing and lighting-fast\\nattacks",
+    "new": "Learn the secrets of loving whispers",
+    "old": "Learn the secrets of the loving whispers"
+  },
+  {
+    "new": "Learn the secrets of healing whispers",
+    "old": "Learn the secrets of the healing whispers"
+  },
+  {
+    "new": "Learn the secrets of fencing and lightning-fast\\nattacks",
     "old": "Learn the secrets of the art of fencing and fast\\nattacking"
   },
   {
@@ -2372,6 +2872,10 @@
     "old": "A scroll teaching you the secrets of the combustion"
   },
   {
+    "new": "A scroll teaching you the secrets of pyromancy tricks",
+    "old": "A scroll teaching you the secrets of the pyromancy trick"
+  },
+  {
     "new": "The scroll\\nreveals the secrets of walking on water",
     "old": "The scroll\\nteaches you the secrets on how to walk on water"
   },
@@ -2393,7 +2897,7 @@
   },
   {
     "new": "The skinning knife doesn't cut the lizardman's skin!",
-    "old": "Skinning knife doesn't cut lizardman's skin..."
+    "old": "Skinning knife doesn't cut lizardman's skin...."
   },
   {
     "new": "I will trade an item of your choosing for the little",
@@ -2530,5 +3034,473 @@
   {
     "new": "You meet the pitiless gaze of the",
     "old": "Your eyes meet with the"
+  },
+  {
+    "new": "armor",
+    "old": "armour"
+  },
+  {
+    "new": "face,\\nincluding the eyes.",
+    "old": "face, including\\neyes."
+  },
+  {
+    "new": "with feather-light steps",
+    "old": "with a feather light steps"
+  },
+  {
+    "new": "Greatly improves\\nthe accuracy of its wearer.",
+    "old": "Improves the\\naccuracy of its wearer greatly."
+  },
+  {
+    "new": "monsters and beasts of all kinds.",
+    "old": "monsters and beasts of all kind."
+  },
+  {
+    "new": "Once you put the armor on, you cannot remove it.",
+    "old": "Once you put the armor on, you cannnot remove it.."
+  },
+  {
+    "new": "Lord of Flies",
+    "old": "Lord of flies"
+  },
+  {
+    "new": "A book about the ancient ciry of Mahavre",
+    "old": "A book about the ancient city Ma'habre."
+  },
+  {
+    "new": "Mahavre",
+    "old": "Ma'havre"
+  },
+  {
+    "new": "sure to keep hunger away",
+    "old": "surely to keep hunger away"
+  },
+  {
+    "new": "decorations all over it",
+    "old": "decorations all around it"
+  },
+  {
+    "new": "Instructions for Rebirth",
+    "old": "Instructions of Rebirth"
+  },
+  {
+    "new": "A torn page with instructions for an occult ritual...",
+    "old": "A torn page with instructions of hidden occult..."
+  },
+  {
+    "new": "You touch the black liquid...\\\\",
+    "old": "You touch the black liquid... \\\\"
+  },
+  {
+    "new": "The smell is biting and the taste is salty",
+    "old": "The smell and taste of it is stingy and salty"
+  },
+  {
+    "new": "You drink yellow liquid...\\\\",
+    "old": "You drink yellow liquid... \\\\"
+  },
+  {
+    "new": "already killed here",
+    "old": "killed here already"
+  },
+  {
+    "new": "Unfortunately, the only",
+    "old": "Unfortunately the only"
+  },
+  {
+    "new": "from far-away lands",
+    "old": "from from the far-away lands"
+  },
+  {
+    "new": "This is the second time you've saved me!",
+    "old": "This is the second time of you saving me already!"
+  },
+  {
+    "new": "every little murderous critter in the dungeon",
+    "old": "every murderous little critter from a kilometers radius"
+  },
+  {
+    "new": "Finish... my... task...",
+    "old": "Finish... my...task..."
+  },
+  {
+    "new": "I go by many titles, but you can call me Nas'hrah,",
+    "old": "I go by many titles, but you can call me Nas'hrah the Doom"
+  },
+  {
+    "new": "the Doom and Terror of Modern Man",
+    "old": "and terror of the Modern Man"
+  },
+  {
+    "new": "the very same arrogance that helped them",
+    "old": "the very same arrogance that helped them rise to the"
+  },
+  {
+    "new": "rise to power...\\\"",
+    "old": "power...\\\""
+  },
+  {
+    "new": "Make no mistake -- I could crush you like the",
+    "old": "Make no mistake that I could crush you like a"
+  },
+  {
+    "new": "But, to achieve my goals, I need my body back",
+    "old": "But, to get the job done, I need my body back"
+  },
+  {
+    "new": "There should be a way to do just that in the ancient",
+    "old": "There should be a way to do just this in the ancient"
+  },
+  {
+    "new": "that lies below these ruins",
+    "old": "that's below these ruins"
+  },
+  {
+    "new": "You beat its bony body",
+    "old": "You beat it's boney body"
+  },
+  {
+    "new": "Moonless runs into the distance.",
+    "old": "Moonless run into the distance."
+  },
+  {
+    "new": "but these dungeons, man",
+    "old": "but these dungeons man"
+  },
+  {
+    "new": "away at my core.\\\"",
+    "old": "away at my core."
+  },
+  {
+    "new": "\\\"...\\\"",
+    "old": "\\\"....\\\""
+  },
+  {
+    "new": "Hey, you...",
+    "old": "Hey you......"
+  },
+  {
+    "new": "The party tries to escape...",
+    "old": "The party tries to escape...."
+  },
+  {
+    "new": "Love, unfortunately, your",
+    "old": "Love, unfortunately your"
+  },
+  {
+    "new": "Something in their stature seems",
+    "old": "Something about his stature seems"
+  },
+  {
+    "new": "The primal laws of nature are still very much alive",
+    "old": "There are primal laws of nature still very much alive"
+  },
+  {
+    "new": "Well, people are suckers",
+    "old": "Well people are suckers"
+  },
+  {
+    "new": "more convenient - the better, and they end up throwing away",
+    "old": "more convenient - the better, and the end up throwing away"
+  },
+  {
+    "new": "But you took care of him... He - you noticed it was a",
+    "old": "But you took care of him... Him-- you noticed it was a "
+  },
+  {
+    "new": "I would appreciate some peace to work in, if you don't mind",
+    "old": "I would appreciate some working peace, if you don't mind"
+  },
+  {
+    "new": "What a silly question, haha",
+    "old": "What a silly question haha"
+  },
+  {
+    "new": "There is an old set of armor lying here",
+    "old": "There is an old armor lying here"
+  },
+  {
+    "new": "An empty set of armor is lying on the ground",
+    "old": "An empty armor is lying on the ground"
+  },
+  {
+    "new": "A human corpse, skinned by crude blades",
+    "old": "there is a person here skinned alive by crude equipment"
+  },
+  {
+    "new": "He already achieved dominance above ground",
+    "old": "He already achieved the state of dominance overground"
+  },
+  {
+    "new": "achieved enlightenment with the cube",
+    "old": "achieved the enlightenment with the cube"
+  },
+  {
+    "new": "but it did make an interesting set of developments",
+    "old": "but it did make an interesting event to unfold"
+  },
+  {
+    "new": "They attained their position in order to rebel",
+    "old": "They have gotten to their position to rebel the older"
+  },
+  {
+    "new": "against the Old Gods and the old order",
+    "old": "gods and the old world order"
+  },
+  {
+    "new": "But they are barking up the wrong tree",
+    "old": "But they are barking at the wrong tree"
+  },
+  {
+    "new": "been around for millenia?",
+    "old": "been around for millenias?"
+  },
+  {
+    "new": "The truth is - Gods come and go. Humanity itself is the",
+    "old": "The truth is - the New Gods come and go. They are the"
+  },
+  {
+    "new": "cause of the misery and dreadful state of the world",
+    "old": "reason for the misery and the terrible shape the mankind has"
+  },
+  {
+    "new": "for hundreds of years.",
+    "old": "been for hundreds of years."
+  },
+  {
+    "new": "Humans should take responsibility for themselves",
+    "old": "Humans should take responsibility of themselves"
+  },
+  {
+    "new": "That should keep you grounded, haha...",
+    "old": "That should keep you grounded haha."
+  },
+  {
+    "new": "It's clearly the end of an era.",
+    "old": "It's clearly an end of an era."
+  },
+  {
+    "new": "their footsteps sound distant before vanishing",
+    "old": "his footsteps sound distant before vanishing"
+  },
+  {
+    "new": "white-haired",
+    "old": "white haired"
+  },
+  {
+    "new": "ominous, and too still to your liking",
+    "old": "ominous and too still to your liking"
+  },
+  {
+    "new": "living in close proximity, judging",
+    "old": "living in the close proximity judging"
+  },
+  {
+    "new": "There is a tear drop on the relieved face",
+    "old": "There is a tear drop in the relieved face"
+  },
+  {
+    "new": "Without you, I'd be dead by now",
+    "old": "Without you I'd be dead by now"
+  },
+  {
+    "new": "I just wanted to kill those cave-dwellers",
+    "old": "I just wanted to kill those dwellers"
+  },
+  {
+    "new": "They live in filth and heresy down here in the dark.",
+    "old": "They live in savage ways. They are but a pack of heretics."
+  },
+  {
+    "new": "know! I am in your debt.",
+    "old": "know! I'm in a debt to you."
+  },
+  {
+    "new": "Her face starts to radiate the moment she starts talking",
+    "old": "Her face starts to radiate the moment she started talking"
+  },
+  {
+    "new": "I apologize in advance. My manners might seem a bit formal",
+    "old": "I apologize in advance. My manners might seem a bit strict"
+  },
+  {
+    "new": "for lowly commoners like yourselves.",
+    "old": "for lowly commoners."
+  },
+  {
+    "new": "I was brought up in the kingdom of",
+    "old": "I originally had an upbringing in the kingdom of"
+  },
+  {
+    "new": "I tried to bring Alll-Mer's light to those cave-dwelling",
+    "old": "I tried to teach Alll-Mer's teaching to those cave"
+  },
+  {
+    "new": "savages, too, but they didn't",
+    "old": "dwelling savages too, but they didn't"
+  },
+  {
+    "new": "I ventured down into this darkness to save my captain",
+    "old": "I stepped down to this darkness to save my captain"
+  },  
+  {
+    "new": "Maybe you've heard his name -- it's Le'garde. If you'd ever",
+    "old": "Maybe you've heard his name. It's L'garde. If you ever"
+  },
+  {
+    "new": "met him, you would surely remember.",
+    "old": "met him, you would surely remember him."
+  },
+  {
+    "new": "Hooo~ you are? This is most surprising!",
+    "old": "Hooo~ you do? This is the most surprising!"
+  },
+  {
+    "new": "once they grow out of their childhood naivety",
+    "old": "once they grow out of their naive little views of the world"
+  },
+  {
+    "new": "and leave the nursery behind",
+    "old": "they had as younglings"
+  },
+  {
+    "new": "But that's what everyone said, so no use in repeating that",
+    "old": "But that's what everyone keeps saying so no use going that"
+  },
+  {
+    "new": "Many mistake joy for happiness",
+    "old": "Many mistake happiness with joy"
+  },
+  {
+    "new": "voices inside my head, you know?",
+    "old": "voices inside the head, you know?"
+  },
+  {
+    "new": "apologize",
+    "old": "apologise"
+  },
+  {
+    "new": "disappointing",
+    "old": "disapointing"
+  },
+  {
+    "new": "Unfortunately, they were poisonous",
+    "old": "Unfortunately they were poisonous"
+  },
+  {
+    "new": "Unfortunately, the armor that is",
+    "old": "Unfortunately the armor that is"
+  },
+  {
+    "new": "He seems to still be alive, even with his guts hanging out.",
+    "old": "He seems to be alive still, even with all his guts out."
+  },
+  {
+    "new": "Unfortunately, the body is in too bad",
+    "old": "Unfortunately the body is in too bad"
+  },
+  {
+    "new": "A huge barrel full of rubble left by the mining operations.",
+    "old": "A huge barrel full of rubble created from the mining activities."
+  },
+  {
+    "new": "The sword emanates a light blue hue",
+    "old": "The sword emanates light blue hue"
+  },
+  {
+    "new": "\"Do this and I shall reward you...\\\"",
+    "old": "\"and I shall reward you...\\\""
+  },
+  {
+    "new": "Just know that one day... you will become a rotten home",
+    "old": "Just know that one day... ou will become a rotten home"
+  },
+  {
+    "new": "Peasant - your task is done, I hear... I am very pleased",
+    "old": "Peasant - your task is done...I hear...I am very pleased..."
+  },
+  {
+    "new": "Peasant - you have risen in rank...",
+    "old": "Peasant - you shall raise in rank... you are from this day"
+  },
+  {
+    "new": "From this day onwards... you shall be a Noble...",
+    "old": "onwards... a Noble..."
+  },
+  {
+    "new": "With this task, your affinity with the God of the Depths",
+    "old": "With the task, your affinity with the God of the Depths"
+  },
+  {
+    "new": "With this sacrifice, your affinity with the God of the Depths",
+    "old": "With the sacrifice, your affinity with the God of the depths"
+  },
+  {
+    "new": "My people have always wanted a fleshy home",
+    "old": "My people have always wanted a new flesh of a home"
+  },
+  {
+    "new": "Its people often shy away from light",
+    "old": "His people often shy away from light"
+  },
+  {
+    "new": "You've seen the cave-dwellers, yes?",
+    "old": "You've seen the cavedwellers yet?"
+  },
+  {
+    "new": "like the thing moved the moment you turned your back",
+    "old": "like the thing moved the moment you turn your back"
+  },
+  {
+    "new": "The ancient city's towers hang crooked over the endless streets...",
+    "old": "The ancient city fills the landscape with all its crooked towers."
+  },
+  {
+    "new": "recognize",
+    "old": "recongnize"
+  },
+  {
+    "new": "the form as one of the New Gods",
+    "old": "the form as the New God"
+  },
+  {
+    "new": "He seems amused by your presence",
+    "old": "He seems humored by your presence"
+  },
+  {
+    "new": "nowhere to be seen",
+    "old": "no where to be seen"
+  },
+  {
+    "new": "I don't trust you, to put it bluntly",
+    "old": "I don't trust you to put it bluntly"
+  },
+  {
+    "new": "Ja, yes. It is not that well-known a god, as it mostly",
+    "old": "Ja. She is not that well known god as most of the time she"
+  },
+  {
+    "new": "is worshipped by the forsaken and forgotten",
+    "old": "spends her days with those forsaken and forgotten"
+  },
+  {
+    "new": "Its people often shy away from the light",
+    "old": "Her people often shy away from light"
+  },
+  {
+    "new": "That's the case with the cave-dwellers, too.",
+    "old": "That's the case here too. You've seen the cavedwellers?"
+  },
+  {
+    "new": "these dungeons. It is ever changing its shape to challenge",
+    "old": "these dungeons. She is ever-changing her shape to challenge"
+  },
+  {
+    "new": "its visitors.\\\"",
+    "old": "her visitors.\\\""
+  },
+  {
+    "new": "I'd try to appease it, if I were to delve deeper",
+    "old": "I'd try to please her, if I were to delve deeper"
   }
 ] 
