@@ -481,7 +481,7 @@
   },
   {
     "new": "shield is light to use, and offers",
-    "old": "shield is light to use and offers"
+    "old": "shield is light to use an offers"
   },
   {
     "new": "The emblem of good luck",
@@ -616,7 +616,7 @@
     "old": "or entity that must be avoided"
   },
   {
-    "new": "The stench of rotting flesh is carried up from the darkness.",
+    "new": "The stench of rotting flesh is carried up from the darkness",
     "old": "A stench of flesh is carried from the darkness"
   },
   {
@@ -633,7 +633,7 @@
   },
   {
     "new": "you hear a door opening somewhere...",
-    "old": "You hear a doors opening somewhere"
+    "old": "You hear a doors opening somewhere..."
   },
   {
     "new": "can't see the light of hope anywhere",
@@ -1116,6 +1116,10 @@
     "old": "has just began"
   },
   {
+    "new": "have just begun",
+    "old": "have just began"
+  },
+  {
     "new": "whole existence prior to this moment was a dream",
     "old": "existence before this very moment has been like watching"
   },
@@ -1166,6 +1170,10 @@
   {
     "new": "Once upon a time",
     "old": "Once upon in time"
+  },
+  {
+    "new": "once upon a time",
+    "old": "once upon in time"
   },
   {
     "new": "have this collection of books",
@@ -1448,8 +1456,8 @@
     "old": "Lizardman is showing off his martial arts"
   },
   {
-    "new": "the monster lowers its stance",
-    "old": "the monster lowers it's stance"
+    "new": "monster lowers its stance",
+    "old": "monster lowers it's stance"
   },
   {
     "new": "acquired",
@@ -1684,10 +1692,6 @@
     "old": "Pain and schuffering... It is all I know anymore..."
   },
   {
-    "new": "I fell at the decisive battle at Jettaiah...",
-    "old": "I fell at the decisive battle at Jettaiah..."
-  },
-  {
     "new": "It had to be decadesch. It was shuch a long time. Long enough",
     "old": "It had to be decades. It was such a long time. A long enough"
   },
@@ -1880,6 +1884,10 @@
     "old": "Something changed with Le'garde as well. He kept more to"
   },
   {
+    "new": "abandoned your comrades and kept your life, or you could have",
+    "old": "abandoned your comrades and kept you life, or you could have"
+  },
+  {
     "new": "himself, studying ancient texts and the occult.",
     "old": "himself and studied ancient texts and occult."
   },
@@ -1909,7 +1917,7 @@
   },
   {
     "new": "It was this final act that was used by",
-    "old": "Twas this small overblow that was enough of an excuse"
+    "old": "It was this small overblow that was enough of an excuse"
   },
   {
     "new": "the Kingdom of Rondon to turn the commoners against",
@@ -1981,11 +1989,11 @@
   },
   {
     "new": "Your cunning was put to the test in the harshest possible",
-    "old": "You put your creativity to the test in the most harshest of"
+    "old": "You put your creativity to test in the most harshest of"
   },
   {
-    "new": "environment. You were born and soon abandoned",
-    "old": "environments. You were born and soon abandoned "
+    "new": "environments. You were born and soon abandoned in the capital ",
+    "old": "environment. You were born and soon abandonedin"
   },
   {
     "new": "Lead an honest life",
@@ -2004,8 +2012,12 @@
     "old": "As you grew older you took part in various"
   },
   {
-    "new": "around you. The crude steets of Jettaiah taught you",
-    "old": "over the years. The crude streets of Jettaiah teached you"
+    "new": "over the years. The crude streets of Jettaiah taught you",
+    "old": "around you. The crude steets of Jettaiah taught you"
+  },
+  {
+    "new": "over the years. The crude streets of Jettaiah taught you",
+    "old": "over the years. The crude steets of Jettaiah teached you"
   },
   {
     "new": "Not many survived the ambush, but that just meant a bigger cut",
@@ -2041,7 +2053,7 @@
   },
   {
     "new": "a fabled mercenary captain from prison.",
-    "old": "caption of a fabled mercenary army out of the dungeons"
+    "old": "captain of a fabled mercenary army out of the dungeons"
   },
   {
     "new": "But not just any prison...",
@@ -2053,7 +2065,7 @@
   },
   {
     "new": "have felt nauseous since the moment you agreed to",
-    "old": "have felt nauseua since the moment you agreed on the"
+    "old": "have felt nauseua since the the moment you agreed on the"
   },
   {
     "new": "take the job. But you are short on silver and",
@@ -2132,7 +2144,7 @@
     "old": "You knew it was a mistake, but the choice wasn't in your"
   },
   {
-    "new": "wasn't yours to make. You knew something bad would follow",
+    "new": "wasn't yours to make. You knew you'd regret this",
     "old": "hands. You knew something bad would follow"
   },
   {
@@ -2425,11 +2437,11 @@
   },
   {
     "new": "signaling the birth of a new era for mankind. But why?",
-    "old": "a new era for mankind. A man meant for greatness. By why"
+    "old": "a new era for mankind. A man meant for greatness. But why"
   },
   {
     "new": "Why this meaningless mortal? What did the fates intend?",
-    "old": "whould you need to share the spotlight of the gods with any"
+    "old": "would you need to share the spotlight of the gods with any"
   },
   {
     "new": "In the end, it hardly mattered.",
@@ -2580,8 +2592,8 @@
     "old": "the studies performed. No witnesses so to speak.\\\""
   },
   {
-    "new": "alchemical",
-    "old": "alchemic"
+    "new": "alchemical ",
+    "old": "alchemic "
   },
   {
     "new": "He can't take many more",
@@ -2593,7 +2605,7 @@
   },
   {
     "new": "A delicate sword from far-East.\\nFragile, but its sharp edge inflicts critical damage.",
-    "old": "A delicate sword from far-East. It is very sharp, but \\nfragile. Its edge is prone to critical attacks."
+    "old": "A delicate sword from far-East. It is very sharp, but\\nfragile. Its edge is prone to critical attacks."
   },
   {
     "new": "Wasted tears weigh heavy on me, from our love",
@@ -2636,16 +2648,12 @@
     "old": "The time is now. The times the prophecies have foretold!"
   },
   {
-    "new": "That is when lust, sex, and addiction fester",
+    "new": "That is when lust, sex, and addiction fester ",
     "old": "That is when lust, sex and addiction take a form of"
   },
   {
     "new": "and become monstrous.\\\"",
     "old": "defiguration.\\\""
-  },
-  {
-    "new": "The God of the Depths has an especially strong influence in",
-    "old": "God of the Depths has an especially strong influence in"
   },
   {
     "new": "He has existed for aeons as the seed of his father",
@@ -3057,15 +3065,15 @@
   },
   {
     "new": "Once you put the armor on, you cannot remove it.",
-    "old": "Once you put the armor on, you cannnot remove it.."
+    "old": "Once you put the armor on, you cannot remove it.."
   },
   {
     "new": "Lord of Flies",
     "old": "Lord of flies"
   },
   {
-    "new": "A book about the ancient ciry of Mahavre",
-    "old": "A book about the ancient city Ma'habre."
+    "new": "A book about the ancient city of Mahavre.",
+    "old": "A book about the ancient ciry Mahavre"
   },
   {
     "new": "Mahavre",
@@ -3502,5 +3510,637 @@
   {
     "new": "I'd try to appease it, if I were to delve deeper",
     "old": "I'd try to please her, if I were to delve deeper"
+  },
+  {
+    "new": "You get \\\\c[2]Tormented soul\\\\c[0]",
+    "old": "You get \\\\c[2]Tormented soul\\\\c[0] with you."
+  },
+  {
+    "new": "The massive body of the red man doesn't even budge wth your",
+    "old": "He massive body of the redman doesn't even budge with your "
+  },
+  {
+    "new": "You can still smell the blood and gore that seeps",
+    "old": "You can still smell all the blood and the goore that seeps"
+  },
+  {
+    "new": "through the cracks of the anient stone walls down in the",
+    "old": "through the seams of the ancient stone walls of the"
+  },
+  {
+    "new": "You can still feel the gaze of the dead following you.",
+    "old": "You can still feel the gaze of the hundreds of past"
+  },
+  {
+    "new": "The poor sacrificed souls were left in their own blood to",
+    "old": "warriors sacrificed in the pools of blood, now left to"
+  },
+  {
+    "new": "lead poor souls deeper into madness... all the way to",
+    "old": "lead poor souls deeper to the madness... All the way to"
+  },
+  {
+    "new": "You delved too deep, you know it in your heart.",
+    "old": "You delved too deep, you know it yourself too."
+  },
+  {
+    "new": "No one could ever return from that deep",
+    "old": "No man could ever return from that deep"
+  },
+  {
+    "new": "You take one more look at the fortress, just to make",
+    "old": "You take a one more look at the fortress just to make"
+  },
+  {
+    "new": "You defeated Le'garde, the prophesied one with the delusions",
+    "old": "You defeated Le'garde, the propheticed one with the delusions"
+  },
+  {
+    "new": "In the end, your fate was to haunt these dungeons forever.",
+    "old": "In the end your fate was to dwell these dungeons forever."
+  },
+  {
+    "new": "Your long quest only gave you hints",
+    "old": "You long quest only gave you hints"
+  },
+  {
+    "new": "You bore witness to the birth of a new age,",
+    "old": "You had the first hand experience of witnessing the coming"
+  },
+  {
+    "new": "a paradigm shift that would shake the cosmos.",
+    "old": "paradigm shift the world is to go through in the new era."
+  },
+  {
+    "new": "It would be... her era. The era of the God of Fear and Hunger.",
+    "old": "An era of the newborn god, the God of Fear and Hunger."
+  },
+  {
+    "new": "They'll come to know this as the cruel age.",
+    "old": "They'll come to know this day as the cruel age."
+  },
+  {
+    "new": "An age where a true, human-borne god would rise after",
+    "old": "An age where a humanborn god would finally rise after"
+  },
+  {
+    "new": "millenia of pointless struggle by the feeble New Gods.",
+    "old": "millenias of mankind's struggle as the feeble New Gods."
+  },
+  {
+    "new": "Maybe your fate was an act of mercy, the last traces ",
+    "old": "Maybe your fate was an act out of mercy? The last traces "
+  },
+  {
+    "new": "of compassion shed by the newborn god after her ascension.",
+    "old": "of compassion the newborn god shed after her true ascension."
+  },
+  {
+    "new": "Your demise was peaceful, after all...",
+    "old": "Your demise was peaceful after all..."
+  },
+  {
+    "new": "but you succeeded at the next",
+    "old": "but you succeeded in the next"
+  },
+  {
+    "new": "Apparently whatever he went through after his passing",
+    "old": "Apparently whatever he went through after his passing had"
+  },
+  {
+    "new": "had changed him... completely.",
+    "old": "changed the man completely."
+  },
+  {
+    "new": "You didn't mind the changes to his appearance,",
+    "old": "You didn't mind his changed looks, but mentally he was"
+  },
+  {
+    "new": "but inside, he was someone else as well.",
+    "old": "someone else as well."
+  },
+  {
+    "new": "He had turned into a beast that would unleash all the terror",
+    "old": "He had turned into a beast, craving to unleash the terror"
+  },
+  {
+    "new": "and suffering he had experienced onto the outside world.",
+    "old": "and suffering he experienced to the outside world."
+  },
+  {
+    "new": "The man claimed to have risen to godhood, but if one examined",
+    "old": "The man claimed to have risen to godhood, but as you examined"
+  },
+  {
+    "new": "his behavior as a warlord, one would see instead the methods",
+    "old": "his behavior as a warlord, he resembled more of a"
+  },
+  {
+    "new": "of a mad, bloodthirsty ghoul...",
+    "old": "bloodthirsty ghoul..."
+  },
+  {
+    "new": "Still, you were reunited with your beloved. That was all",
+    "old": "Still, you were reunited with your loved one. That was all"
+  },
+  {
+    "new": "that mattered to you. Maybe...in this new, cruel form",
+    "old": "that mattered to you. Maybe with his new crude looks and"
+  },
+  {
+    "new": "and persona, he could finally be completely yours...",
+    "old": "way of thinking, he could finally be just yours completely?"
+  },
+  {
+    "new": "\"existence back in Rondon.\"",
+    "old": "\"future.\""
+  },
+  {
+    "new": "you experienced in the dungeons, still sent shivers down",
+    "old": "you experienced in the dungeons still sent shivers down"
+  },
+  {
+    "new": "could lead their everyday lives heedless of the great",
+    "old": "would lead their everyday lives simultaneously as a great"
+  },
+  {
+    "new": "evil that existed beneath their feet",
+    "old": "evil existed beneath their feet"
+  },
+  {
+    "new": "You sold the ancient crown to the highest bidder.",
+    "old": "You sold the ancient crown to the highest bidder. The"
+  },
+  {
+    "new": "The bag of silver you got from it exceeded your expectations!",
+    "old": "amount of silver you got from it exceeded your expectations!"
+  },
+  {
+    "new": "You also felt better after getting rid of such an unholy",
+    "old": "greatly. You also felt better getting rid of such unholy"
+  },
+  {
+    "new": "artefact, as it kept reminding you of the darkness below.",
+    "old": "artefact, as it kept reminding you about the darkness."
+  },
+  {
+    "new": "You rose from the lowest class of scum to nobility",
+    "old": "You rose from the lowest class scum to a nobile is a"
+  },
+  {
+    "new": "\"in a heartbeat.\"",
+    "old": "\"heartbeat.\""
+  },
+  {
+    "new": "You bought your wife's freedom from her masters",
+    "old": "You bought your wife free from the labor she forced to at"
+  },
+  {
+    "new": "You got everything you ever dreamed of.",
+    "old": "You got everything you ever dreamed of. You got most of the"
+  },
+  {
+    "new": "Nobiles and princes envy your wealth and vie for your favor,",
+    "old": "noble families on a leash thanks to your great wealth."
+  },
+  {
+    "new": "fighting over each tiny breadcrumb you toss them",
+    "old": "Taking any breadcrumb you threw at them"
+  },
+  {
+    "new": "You live in the most extravagant mansion, happily married,",
+    "old": "You were living in the most extravagant manor with your"
+  },
+  {
+    "new": "and it seems as though your life is finally perfect.",
+    "old": "wife with no seeming worry about the future."
+  },
+  {
+    "new": "And yet... you can't sleep. Every time you start to drift off,",
+    "old": "Still... You could not sleep. Every passing moment you"
+  },
+  {
+    "new": "you find yourself grabbing for the hilt of your sword,",
+    "old": "would be grabbing on the hilt of your sword and staring"
+  },
+  {
+    "new": "fearfully searching the shadows for the tell-tale movement...",
+    "old": "at the dark corners of your room..."
+  },
+  {
+    "new": "Just waiting for the inevitable...",
+    "old": "... Just waiting for the inevitable."
+  },
+  {
+    "new": "you know the darkness you witnessed would leave no survivors.",
+    "old": "you knew that the darkness you witnessed would leave no "
+  },
+  {
+    "new": "One day, it would come for you, too.",
+    "old": "survivors. It would still come for you one day."
+  },
+  {
+    "new": "you dedicated your life to hunting down those that are",
+    "old": "you dedicated your life in hunting down those that are"
+  },
+  {
+    "new": "conceived by the darkness",
+    "old": "concieved by the darkness"
+  },
+  {
+    "new": "reflection of yourself. A form that had taken the shape",
+    "old": "reflection of yourself. A form that had taken a shape of"
+  },
+  {
+    "new": "\"of a New God.\"",
+    "old": "\"a New God.\""
+  },
+  {
+    "new": "lust for power wash over you. It would",
+    "old": "lust for power take you over. It would"
+  },
+  {
+    "new": "You declined godhood and managed to move beyond the plane",
+    "old": "You declined the godhood and managed to step out of the"
+  },
+  {
+    "new": "choked by the green hue that radiates",
+    "old": "plane that was colored by the green hue that radiated"
+  },
+  {
+    "new": "from the endless underground pits.",
+    "old": "from underground pits."
+  },
+  {
+    "new": "It's not like your ascension was without its merits,",
+    "old": "It's not like your ascension wasn't without its merits even"
+  },
+  {
+    "new": "even if you withdrew at the last second. You saw your",
+    "old": "if you withdrew at the last second. You saw the reflection"
+  },
+  {
+    "new": "reflection, after all, and understood its intents.",
+    "old": "after all and understood its intents."
+  },
+  {
+    "new": "With your newfound knowledge, you took the",
+    "old": "With your newly found knowledge, you took the"
+  },
+  {
+    "new": "libraries of the ancient city as your own",
+    "old": "libraries of the ancient city to be your own"
+  },
+  {
+    "new": "The library already contained more information than one could",
+    "old": "The library already contained more information one could"
+  },
+  {
+    "new": "discovered the secrets of a prolonged life pretty quickly.",
+    "old": "discovered the secrets of a prolonged life pretty soon."
+  },
+  {
+    "new": "You found out how the Old Gods left this world long ago.",
+    "old": "You found out how the Old Gods had left this world long"
+  },
+  {
+    "new": "You had taken care of the New Gods that resided",
+    "old": "time ago. You had taken care of the New Gods that resided"
+  },
+  {
+    "new": "in the long-lost city of Ma'habre...",
+    "old": "in the city of the gods..."
+  },
+  {
+    "new": "You did not need godhood to chase after true enlightenment.",
+    "old": "You did not need godhood to chase after the true "
+  },
+  {
+    "new": "You did not need godhood to become",
+    "old": "enlightenment. You did not need godhood to become the most"
+  },
+  {
+    "new": "the most powerful mortal being to ever exist.",
+    "old": "powerful mortal to exist."
+  },
+  {
+    "new": "The spike thrusts deeply into your flesh!",
+    "old": "The spike thrusts a deep wound in you!"
+  },
+  {
+    "new": "A huge tower looms high above you. Its top is shrouded",
+    "old": "A huge tower towers in front of you. It's top is shrouded"
+  },
+  {
+    "new": "The towering buildings seem almost to tip inwards onto you.",
+    "old": "The towering buildings almost feel to fall on you."
+  },
+  {
+    "new": "You feel claustrophobic even though the area is wide open...",
+    "old": "You feel claustrophobic even if the area is wide open..."
+  },
+  {
+    "new": "The man has an especially vile look",
+    "old": "The man has especially vile look"
+  },  
+  {
+    "new": "A statue of the New God: Valteil the Enlightened One.",
+    "old": "A statue of the New God. Valteil the enlightened one."
+  },
+  {
+    "new": "The mannequin has what seems to be guts hanging out",
+    "old": "The mannequin has, what seems to be guts hanging out"
+  },
+  {
+    "new": "not appearing to be an organic and living",
+    "old": "not appearing to be a organic and living"
+  },
+  {
+    "new": "The creature lacks eyes.",
+    "old": "The creature has got no eyes."
+  },
+  {
+    "new": "The bookshelves tower over you on all sides",
+    "old": "The bookshelves tower you on all sides"
+  },
+  {
+    "new": "You do not understand what he's responsible for!",
+    "old": "You do not understand what he's responsible of!"
+  },
+  {
+    "new": "The darkness hides the ruins of a massive city...",
+    "old": "The darkness hides enormous city ruins..."
+  },
+  {
+    "new": "Your footsteps echo back to you from distant cavern walls.",
+    "old": "Echo in this cavern suggests its size is huge."
+  },
+  {
+    "new": "It seems like his mind was lost down here in the",
+    "old": "Seems like his mind is lost with the time spent down in the"
+  },
+  {
+    "new": "\\\\c[2]Scroll of transmutation\\\\c[0] inside the chest.",
+    "old": "\\\\c[2]Scroll of transmutation\\\\c[0] from the chest."
+  },
+  {
+    "new": "Our party was scattered almost immediately when we reached",
+    "old": "Our party was separated already at the first floors of the"
+  },
+  {
+    "new": "the dungeons. We were thrown in the midst of chaos right from the",
+    "old": "dungeon. We were thrown in the midst of chaos right from the"
+  },
+  {
+    "new": "we couldn't find the others, we decided to delve deeper...",
+    "old": "we couldn't find the others, we decided to dwell lower..."
+  },
+  {
+    "new": "a creature with the head of a",
+    "old": "a creature with a head of a"
+  },
+  {
+    "new": "catacombs, only to be found by that hairy beast later",
+    "old": "catacombs, only to be found out by that hairy beast later"
+  },
+  {
+    "new": "Jeanne coughs up blood. She seems to be in serious pain.",
+    "old": "Jeanne coughs blood. She looks to be in serious pain."
+  },
+  {
+    "new": "reach the upper floors of the dungeon?",
+    "old": "to the upper floors of the dungeon?"
+  },
+  {
+    "new": "I'm afraid I'm in too bad a shape to get there",
+    "old": "I'm afraid I'm in way too bad of a shape to get there"
+  },
+  {
+    "new": "A cave-in is blocking your path",
+    "old": "A cave-in is blocking you path"
+  },
+  {
+    "new": "You find an ancient talisman inside the chest",
+    "old": "You find an ancient talisman from the chest"
+  },
+  {
+    "new": "Dead, in other words. Seems like her ribs were crushed",
+    "old": "Dead in other words. Seems like her ribs are crushed"
+  },
+  {
+    "new": "There is no reason to skin the knight",
+    "old": "There is no reason skinning the knight"
+  },
+  {
+    "new": "Mankind has no hope",
+    "old": "Mankind got no hope"
+  },
+  {
+    "new": "is etched into your mind",
+    "old": "is etched to your head"
+  },
+  {
+    "new": "You have proven your dominance over this wretched old man,",
+    "old": "You have proven your dominance over this old man, who"
+  },
+  {
+    "new": "desperately clinging to a world that had outgrown him.",
+    "old": "desperately tried to keep up with the times."
+  },
+  {
+    "new": "With the fall of Francóis the Dominating,",
+    "old": "With Francóis the Dominating falling, the order the new"
+  },
+  {
+    "new": "the order the New Gods had built is quick to follow.",
+    "old": "gods kept also crumbles down."
+  },
+  {
+    "new": "He sneers as if he despises your",
+    "old": "He's got a look on his face that absolutely despises your"
+  },
+  {
+    "new": "very existence. Suddenly, you feel like a lesser",
+    "old": "mere existence. Without a reason you feel like lesser of a"
+  },
+  {
+    "new": "What if such a grand kingdom only required one soul to",
+    "old": "What if such grand kingdom only required one soul to"
+  },
+  {
+    "new": "'Order' this and 'order' that. Mankind",
+    "old": "'Order' this and 'order' that. The mankind"
+  },
+  {
+    "new": "existence",
+    "old": "existance"
+  },
+  {
+    "new": "As you get closer to the throne...You feel the air standing still.",
+    "old": "As you close the throne... You feel air standing still."
+  },
+  {
+    "new": "considerable significance in the greater scheme of things",
+    "old": "great significance to the greater scheme of things"
+  },
+  {
+    "new": "You hear faint scream-like sound echoing in",
+    "old": "You hear faint screm-like sound echoing in"
+  },
+  {
+    "new": "one of the last pleasures I have left",
+    "old": "one of the last pleasures I got left"
+  },
+  {
+    "new": "They are ferocious little bastards",
+    "old": "They are a ferocious little bastards"
+  },
+  {
+    "new": "It's time for mankind to take matters into their own",
+    "old": "It's time for the mankind to take matters to their own"
+  },
+  {
+    "new": "of us all is to shiver under the cold sun the gods have set",
+    "old": "of us all is to sliver under the cold sun the gods have set"
+  },
+  {
+    "new": "You are greeted with towering figures. They are sitting",
+    "old": "You are greeted with towering figurines. They are sitting"
+  },
+  {
+    "new": "You've put the creature out of its misery...",
+    "old": "The creature is out of its misery..."
+  },
+  {
+    "new": "The girl looks determined, ready for whatever",
+    "old": "The girl is looking very vigorous ready for whatever"
+  },
+  {
+    "new": "Moonless wags its tail and seems happy to see you",
+    "old": "Moonless wiggles its tail and is seemingly happy seeing you"
+  },
+  {
+    "new": "Moonless wags its tail. She is ready",
+    "old": "Moonless wiggles its tail. She is ready"
+  },
+  {
+    "new": "His eyes contain no liveless nor glimmer of hope",
+    "old": "His eyes got no liveliness or glimmer or hope"
+  },
+  {
+    "new": "The whole city reeks of rot and the cold sun rays",
+    "old": "The whole city reeks rotten and the cold sun rays"
+  },
+  {
+    "new": "The lonely alleyways echo menace and terror from a past age",
+    "old": "The lonely alleyways echo menace and terror from past age"
+  },
+  {
+    "new": "I just wanted to reminisce about the times I had with her.",
+    "old": "I just wanted to reminiscence the times I had with her."
+  },
+  {
+    "new": "My true goal lies so far beyond our tiny band's",
+    "old": "I had a goal that exceeded our puny medlings in the past"
+  },
+  {
+    "new": "dreams and the little plans we made.\\\"",
+    "old": "world.\\\""
+  },
+  {
+    "new": "In truth, I don't know if you will ever understand why...",
+    "old": "I don't know if you can ever understand my motivations"
+  },
+  {
+    "new": "But this is something that only I can go through with.",
+    "old": "truly, but this is something only I can go through with."
+  },
+  {
+    "new": "It was always my destiny...",
+    "old": "I was always meant to go through this."
+  },
+  {
+    "new": "I did try to live my life otherwise... but it was all in vain.",
+    "old": "I did try to live my life otherwise... But it was all "
+  },
+  {
+    "new": "You cannot escape fate.\\\"",
+    "old": "with no avail.\\\""
+  },
+  {
+    "new": "... You know this. We tried to change things for the",
+    "old": ", you know this. We tried to make change for the"
+  },
+  {
+    "new": "better. We tried and tried for the longest time.\\\"",
+    "old": "longest time.\\\""
+  },
+  {
+    "new": "To live is to suffer. That is all there is. To survive,",
+    "old": "To live is the same as to suffer. To survive, we need to"
+  },
+  {
+    "new": "we search for relief, or at least meaning in all this suffering!",
+    "old": "find some meaning from all the suffering."
+  },
+  {
+    "new": "But in this world, we must know suffering to appreciate joy.",
+    "old": "The truth behind it all is the contrast. Without suffering"
+  },
+  {
+    "new": "Without suffering, there would be no bliss or paradise.",
+    "old": "there would be no bliss or paradise."
+  },
+  {
+    "new": "It is my duty to change this. To craft a pure utopia",
+    "old": "It is my duty to craft the paradise out of the miserable "
+  },
+  {
+    "new": "from the squalor of this world. It is what I was born to do.",
+    "old": "existence of human life. Only I can do it."
+  },
+  {
+    "new": "darkness. You will be free, one way or another.",
+    "old": "darkness one way or another."
+  },
+  {
+    "new": "The guard loads an arrow into the ballista",
+    "old": "The guard loads an arrow to ballista"
+  },
+  {
+    "new": "Mumbler's head is pulsating",
+    "old": "Mumblers head is pulsating"
+  },
+  {
+    "new": "Crow Mauler stares at you with its empty eyes",
+    "old": "Crow Mauler is staring you with it's empty eyes"
+  },
+  {
+    "new": "tilts its sword sideways",
+    "old": "tilts it's sword sideways"
+  },
+  {
+    "new": "Maneba's tentacle is swinging around",
+    "old": "Manebas tentacle is swinging around"
+  },
+  {
+    "new": "its dead fish eyes",
+    "old": "it's dead fish eyes"
+  },
+  {
+    "new": "The snatcher tilts its head curiously",
+    "old": "The snatcher tilts it heads curiously"
+  },
+  {
+    "new": "Skin granny slowly stumbles forward...",
+    "old": "Sking granny slowly stumbles forward......"
+  },
+  {
+    "new": "Summon the deity of good luck: the pinecone pig.",
+    "old": "Summon the deity of the good luck. The pinecone pig."
+  },
+  {
+    "new": "Can momentarily\\nstun enemies and cause bleeding.",
+    "old": "Can cause momentary\\nstun to enemies as well as bleeding."
   }
 ] 
