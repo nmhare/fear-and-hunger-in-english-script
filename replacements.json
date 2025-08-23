@@ -296,10 +296,6 @@
     "old": "Murder that being... I want to see it's blood flow... "
   },
   {
-    "new": "know that one day... ou will become a rotten home..",
-    "old": "know that one day... you will become a rotten home.."
-  },
-  {
     "new": "for my brood...",
     "old": "for my kind..."
   },
@@ -348,10 +344,6 @@
     "old": "feels like the dreams become wilder, as the madness in"
   },
   {
-    "new": "these dungeons grows ever more stronger.",
-    "old": "these dungeons grows ever stronger."
-  },
-  {
     "new": "I swear that yesterday, the intestines",
     "old": "I swear the intestines of a gutted prisoner from "
   },
@@ -373,7 +365,7 @@
   },
   {
     "new": "I myself am proof of this. My obsession",
-    "old": "I'm the epitome of obsession, so I know it better"
+    "old": "I'm the epitome of their obsession, so I know it better"
   },
   {
     "new": "devours everything.",
@@ -408,10 +400,6 @@
     "old": "nothing left one him"
   },
   {
-    "new": "[\"mind!\"]",
-    "old": "[\"head!\"]"
-  },
-  {
     "new": "Besides, his skin would be",
     "old": "Besides his skin would be"
   },
@@ -440,7 +428,7 @@
     "old": "I am to grow up to become a warrior."
   },
   {
-    "new": "You're met with a smell of mold ",
+    "new": "You're met with a smell of mold",
     "old": "You met with a smell of mold"
   },
   {
@@ -544,8 +532,8 @@
     "old": "the animals would teach you their own tricks of trade for"
   },
   {
-    "new": "[\"for surviving in the wild.\"]",
-    "old": "[\"survival.\"]"
+    "new": "[\\\"for surviving in the wild.\\\"]",
+    "old": "[\\\"survival.\\\"]"
   },
   {
     "new": "...while the rest would be cut open and have their blood ",
@@ -788,10 +776,6 @@
     "old": "knowledge of the otherside."
   },
   {
-    "new": "knowledge of the other side",
-    "old": "knowledge of the other side"
-  },
-  {
     "new": "You remember...how",
     "old": "You remember... How"
   },
@@ -840,10 +824,6 @@
     "old": "like the thing moved in the corner of your eye upon entering"
   },
   {
-    "new": "it...",
-    "old": "the room..."
-  },
-  {
     "new": "Tell me - oh filthy human... do you want to kneel before me?",
     "old": "Tell me - oh filthy human... do you want to kneel in front of me?"
   },
@@ -888,7 +868,7 @@
     "old": "Prisoner from cell C1: She had a beautiful skin."
   },
   {
-    "new": "Prisoner from cell A2: He can't take manymore",
+    "new": "Prisoner from cell A2: He can't take many more",
     "old": "Prisoner from cell A2: He is not able to take many"
   },
   {
@@ -1164,7 +1144,7 @@
     "old": "you if anyone should know this."
   },
   {
-    "new": "once upon a time",
+    "new": "Once upon a time",
     "old": "Once upon time"
   },
   {
@@ -1272,11 +1252,11 @@
     "old": "You're are bleeding"
   },
   {
-    "new": "Get a hold on yourself",
-    "old": "Get a hold of yourself"
+    "new": "Get a hold of yourself",
+    "old": "Get a hold on yourself"
   },
   {
-    "new": "Give us the girl you greedy asshole",
+    "new": "Give us the girl, you greedy asshole",
     "old": "Give us the girl you prick"
   },
   {
@@ -1352,8 +1332,8 @@
     "old": "anxiety and oppressiveness are slowly eating away my"
   },
   {
-    "new": "[\"away at my core.\"]",
-    "old": "[\"stature.\\\"\"]"
+    "new": "[\\\"away at my core.\\\"]",
+    "old": "[\\\"stature.\\\"]"
   },
   {
     "new": "No, not even pity",
@@ -1666,10 +1646,6 @@
   {
     "new": "ominous aura fills the hallway",
     "old": "ominous aura fill the hallway"
-  },
-  {
-    "new": "the last step is not clear...tt's still shrouded in the mist.",
-    "old": "the last step is not clear... It's still shrouded in the mist."
   },
   {
     "new": "History has shown us again and again that",
@@ -2640,7 +2616,7 @@
     "old": "Embryos are the bastardization that came from that act."
   },
   {
-    "new": "Thank you for beating some sene into me.",
+    "new": "Thank you for beating some sense into me.",
     "old": "Thank you for beating some sense to me."
   },
   {
@@ -3416,8 +3392,8 @@
     "old": "The sword emanates light blue hue"
   },
   {
-    "new": "\"Do this and I shall reward you...\\\"",
-    "old": "\"and I shall reward you...\\\""
+    "new": "\\\"Do this and I shall reward you...\\\"",
+    "old": "\\\"and I shall reward you...\\\""
   },
   {
     "new": "Just know that one day... you will become a rotten home",
@@ -3652,8 +3628,8 @@
     "old": "way of thinking, he could finally be just yours completely?"
   },
   {
-    "new": "\"existence back in Rondon.\"",
-    "old": "\"future.\""
+    "new": "\\\"existence back in Rondon.\\\"",
+    "old": "\\\"future.\\\""
   },
   {
     "new": "you experienced in the dungeons, still sent shivers down",
@@ -3688,8 +3664,8 @@
     "old": "You rose from the lowest class scum to a nobile is a"
   },
   {
-    "new": "\"in a heartbeat.\"",
-    "old": "\"heartbeat.\""
+    "new": "\\\"in a heartbeat.\\\"",
+    "old": "\\\"heartbeat.\\\""
   },
   {
     "new": "You bought your wife's freedom from her masters",
@@ -3700,7 +3676,7 @@
     "old": "You got everything you ever dreamed of. You got most of the"
   },
   {
-    "new": "Nobiles and princes envy your wealth and vie for your favor,",
+    "new": "Nobles and princes envy your wealth and vie for your favor,",
     "old": "noble families on a leash thanks to your great wealth."
   },
   {
@@ -3752,8 +3728,8 @@
     "old": "reflection of yourself. A form that had taken a shape of"
   },
   {
-    "new": "\"of a New God.\"",
-    "old": "\"a New God.\""
+    "new": "\\\"of a New God.\\\"",
+    "old": "\\\"a New God.\\\""
   },
   {
     "new": "lust for power wash over you. It would",
@@ -4016,11 +3992,11 @@
     "old": "The girl is looking very vigorous ready for whatever"
   },
   {
-    "new": "Moonless wags its tail and seems happy to see you",
+    "new": "Moonless wags her tail and seems happy to see you",
     "old": "Moonless wiggles its tail and is seemingly happy seeing you"
   },
   {
-    "new": "Moonless wags its tail. She is ready",
+    "new": "Moonless wags her tail. She is ready",
     "old": "Moonless wiggles its tail. She is ready"
   },
   {
