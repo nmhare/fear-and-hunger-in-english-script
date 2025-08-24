@@ -528,12 +528,8 @@
     "old": "remember how in exchange for a plate of your father"
   },
   {
-    "new": "the animals would teach you their tricks",
+    "new": "the animals would teach you their tricks for",
     "old": "the animals would teach you their own tricks of trade for"
-  },
-  {
-    "new": "[\\\"for surviving in the wild.\\\"]",
-    "old": "[\\\"survival.\\\"]"
   },
   {
     "new": "...while the rest would be cut open and have their blood ",
@@ -1466,6 +1462,10 @@
   {
     "new": "Defense",
     "old": "Defence"
+  },
+  {
+    "new": "the_hexen_defence_stance",
+    "old": "the_hexen_defense_stance"
   },
   {
     "new": "embedded",
